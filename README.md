@@ -44,12 +44,6 @@ Coming soon…
 - CORDEX · CMIP5 · CMIP6  
 - SWAT · SWAT+ · SWAT-MODFLOW  
 - Python · GIS · Remote Sensing · LaTeX· GitHub
-
-  
-## Awards 
-
-Coming soon…
-
 ---
 
 ## Publications (SCIE)
