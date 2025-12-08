@@ -1,53 +1,80 @@
-
-## I'm Tarekegn Dejen Mengistu
+ # I'm Tarekegn Dejen Mengistu
 
 Hydrologist and ML researcher integrating physics-guided hydrological models with probabilistic deep learning, Bayesian inference, and large-scale hydroclimate data analytics to build resilient predictive systems.
+
+---
+<p align="center" style="display:flex;justify-content:center;gap:18px;flex-wrap:nowrap;font-size:16px;">
+<a href="#research-interests">Research Interests</a> |
+<a href="#🎓-education">Education</a> |
+<a href="#advance-certifications">Certifications</a> |
+<a href="#🧪-technical-skills">Technical Skills</a> |
+<a href="#📚-selected-publications">Publications</a> |
+<a href="#🏆-awards">Awards</a> |
+<a href="#🧑‍🏫-experience">Experience</a> |
+<a href="#connect">Connect</a>
+</p>
+
+
+
+---
+
 ## Research Interests
 - ML–Hydrology  
-- Uncertainty quantification 
+- Uncertainty quantification  
 - XAI for environmental systems  
-- Geospatial analytics & large-scale hydro-climatic datasets
+- Geospatial analytics & large-scale hydro-climatic datasets  
+
 ---
 
 ## 🎓 Education
-- PhD, Water Resources Engineering, UST (2025)  
-- MSc, Hydraulic Engineering, JU  
-- BSc, Hydraulic & Water Resources Engineering, JU  
-
-## 🧪 Technical Skills
-
-### **Machine Learning & AI**
-- ensemble ML    
-- Bayesian NNs
-- CNN, RNN/LSTM, 
-- XAI 
-
-### **Data & Scientific Computing**
-- NumPy, Pandas, SciPy, GeoPandas  
-- Geospatial analytics, RS/GIS workflows  
-- Climate & hydrological dataset processing
-
-### **Hydrological / Environmental Modeling**
-- SWAT · SWAT+ · SWAT-MODFLOW  
-- Hydrological & river–aquifer Interaction modeling  
-- Climate modeling
-
-### **Python Ecosystem**
-- Data pipelines  
-- Scientific visualization (Matplotlib)  
-- Automation workflows (Jupyter/Colab)
+- **PhD**, Water Resources Engineering
+- **MSc**, Data Science 
+- **MSc**, Hydraulic Engineering  
+- **BSc**, Hydraulic & Water Resources Engineering  
 
 ---
 
-## 📚 Selected Publications
-## 🏆 Awards
-## 🧑‍🏫 Experience
 
+## 🧪 Technical Skills
 
+### Machine Learning & AI
+- Ensemble ML  
+- Bayesian Neural Networks  
+- CNN, RNN/LSTM  
+- XAI  
 
+### Data & Scientific Computing
+- NumPy • Pandas • SciPy • GeoPandas  
+- GIS workflows • Geospatial analytics  
+- Hydro-climate data processing  
 
+### Hydrological / Environmental Modeling
+- SWAT • SWAT+ • SWAT-MODFLOW  
+- River–aquifer interaction modeling  
+- Climate modeling  
 
+---
 
+## 📚 Selected Publications  
+Coming soon…
+
+---
+
+## 🏆 Awards  
+Coming soon…
+
+---
+
+## 🧑‍🏫 Experience  
+Coming soon…
+
+---
+
+## Advanced Certifications
+Coming soon…
+---
+
+## Connect  
 <h3 align="center">Hydrologist · Machine Learning Researcher · Data Scientist</h3>
 
 <p align="center" style="display: flex; justify-content: center; gap: 8px; flex-wrap: nowrap;">
@@ -88,5 +115,3 @@ Hydrologist and ML researcher integrating physics-guided hydrological models wit
   </a>
 
 </p>
-
-
