@@ -80,8 +80,6 @@ Ware, H. H., **Mengistu, T. D.**, Yifru, B. A., Chang, S. W., Chung, I. M. (2023
 
 **Mengistu, T. D.**, Chang, S. W., Chung, I. M. (2022).  *Estimating Spatiotemporal Distribution of Groundwater Recharge Using SWAT and Bflow Digital Filtering Program.*  Asia Oceania Geosciences Society (AOGS 2022) Conference, 1–5 Aug 2022.
 
-**Mengistu, T. D.**, Alemayehu, E. (2019).  *Regional Flood Frequency Analysis using Index-Flood and L-moments Approach.*  International Conference on Engineering Innovations in Ethiopia: Resources Sustainability and Infrastructure Improvements, (Texas Tech University & Jimma University Collaboration), Jimma, Ethiopia; 11–12 Mar 2019.
-
 ---
 
 
