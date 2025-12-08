@@ -1,4 +1,66 @@
-title: Tarekegn Dejen Mengistu
-#show_doundloads: false
+# ===============================
+# GitHub Pages Portfolio Config
+# Tarekegn Dejen Mengistu
+# Hydrology × Machine Learning × Data Science
+# ===============================
+
+title: "Tarekegn Dejen Mengistu"
+description: "Hydrology · Machine Learning · Uncertainty Modeling · Environmental Data Science"
+
 theme: jekyll-theme-cayman
-description: "Hydrologist | Machine Learning Researcher | Environmental Data Scientist"
+
+# ---- Gradient-Inspired Visual Customization (no CSS needed) ----
+# Cayman supports custom colors via config. We create a soft blue gradient feel:
+# Note: These override built-in theme colors.
+cayman:
+  header-bg-color: "#0f172a"
+  header-bg-color-secondary: "#1e3a8a"
+  section-bg-color: "#e0f2fe"
+
+# Accent & branding colors
+brand-color: "#3b82f6"        # blue highlight
+text-color: "#0f172a"         # dark navy for clean contrast
+link-color: "#1d4ed8"         # strong link blue
+link-hover-color: "#2563eb"
+
+# ---- Social Links ----
+social_links:
+  github: "https://github.com/tdmengistu"
+  linkedin: "https://www.linkedin.com/in/tdmengistu21"
+  researchgate: "https://www.researchgate.net/profile/Tarekegn-Mengistu"
+  orcid: "https://orcid.org/0000-0001-9812-3460"
+  scholar: "https://scholar.google.com/citations?user=cIRXJbgAAAAJ"
+
+# ---- Markdown Rendering ----
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# ---- Extra Settings ----
+show_downloads: false
+google_analytics: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO Metadata
+author:
+  name: "Tarekegn Dejen Mengistu"
+  email: "taredejum6@gmail.com"
+  location: "Korea"
+  role: "Hydrology · Machine Learning Researcher · Data Scientist"
+
+# Make site more discoverable by search engines
+tagline: "Hydrology × Machine Learning × Uncertainty Quantification"
+keywords: 
+  - Hydrology
+  - Machine Learning
+  - Bayesian Deep Learning
+  - SWAT-MODFLOW
+  - Climate Risk Analytics
+  - Environmental Data Science
+
+# Sitemap + SEO
+url: "https://tdmengistu.github.io"
+
