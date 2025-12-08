@@ -1,18 +1,19 @@
 Hydrologist, Data Scientist and Machine Learning researcher integrating physics-guided hydrological models with probabilistic deep learning, Bayesian inference, and large-scale hydroclimate data analytics to build resilient predictive systems.
 
 ---
-<p align="center" style="display:flex;justify-content:center;gap:18px;flex-wrap:nowrap;font-size:16px;">
+ <p align="center" style="display:flex;justify-content:center;gap:18px;flex-wrap:nowrap;font-size:16px;">
 
-<a href="#research-interests">Research Interests</a> |
-<a href="#education">Education</a> |
-<a href="#advance-certifications">Certifications</a> |
-<a href="#experience">Experiences</a> |
-<a href="#technical-skills">Technical Skills</a> |
-<a href="#awards">Awards</a> |
-<a href="#selected-publications">Publications</a> |
-<a href="#connect">More</a>
+  <a href="#research-interests">Research Interests</a> |
+  <a href="#education">Education</a> |
+  <a href="#certifications">Certifications</a> |
+  <a href="#experiences">Experiences</a> |
+  <a href="#technical-skills">Technical Skills</a> |
+  <a href="#awards">Awards</a> |
+  <a href="#publications-scie">Publications</a> |
+  <a href="#connect">More</a>
 
 </p>
+
 
 
 
@@ -77,7 +78,7 @@ Ware, H. H., **Mengistu, T. D.**, Yifru, B. A., Chang, S. W., Chung, I. M. (2023
 **Mengistu, T. D.**, Chung, I. M., Chang, S. W., Yifru, B. A., Kim, M. G., Lee, J., et al. (2021).  *Challenges and prospects of advancing groundwater research in Ethiopian aquifers*  **Sustainability**, 13(20), 11500.  [DOI](https://doi.org/10.3390/su132011500)
 
 
-## 📢 Conference Presentations
+## Conference Presentations
 
 **Mengistu, T. D.**, Kim, M., Chang, S. W., Chung, I. M. (2025).  *Modeling Climate Change Impacts on Historical and Projected Water Resources Vulnerability using Machine Learning and SWAT Model.*  European Geophysical Union (EGU) 2025, Vienna, Austria; 27 Apr – 2 May 2025.
 
