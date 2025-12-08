@@ -1,10 +1,4 @@
-# tdmengistu.github.io
-# ===============================================
-# build_portfolio.py
-# Generates index.html and style.css
-# ===============================================
 
-index_html = """
 <!DOCTYPE html>
 <html lang="en">
 <head>
