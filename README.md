@@ -16,29 +16,29 @@ Hydrologist, Data Scientist and Machine Learning researcher integrating physics-
 
 
 
-## 🌎 Research Interests
+## Research Interests 
 - Bayesian hydrology  
 - Uncertainty quantification  
 - Explainable AI (XAI) for environmental systems  
 - Large-scale hydro-climatic data analytics  
 - River–aquifer interaction modeling
 
-## 🎓 Education
+## Education 
 - PhD, Water Resources Engineering
 - MSc, Data Science 
 - MSc, Hydraulic Engineering  
 - BSc, Hydraulic & Water Resources Engineering  
 
-## 🏅 Certifications
+## Certifications
 - Probabilistic Deep Learning
 - Deep Learning
 - Machine Learning
 - Data Science
 
-## 🧑‍🏫 Experiences 
+## Experiences 
 Coming soon…
 
-## 🧠 Technical Skills
+## Technical Skills
 
 ### **Machine Learning & AI**
 - Regression · Classification · Ensemble ML  
@@ -52,13 +52,13 @@ Coming soon…
 - SWAT · SWAT+ · SWAT-MODFLOW  
 ### **Programming & Tools**
 - Python · GIS · Remote Sensing · LaTeX· GitHub
-## 🏆 Awards 
+## Awards 
 
 Coming soon…
 
 ---
 
-## 📚 Publications (SCIE)
+## Publications (SCIE)
 
 **Mengistu, T. D.**, Chung, I., Kim, M., Chang, S. W. (2025). *Coupled SWAT–MODFLOW model for assessing watershed responses to groundwater sustainability: A novel ensemble approach.* **Journal of Hydrology: Regional Studies**, 61, 102689. [DOI](https://doi.org/10.1016/j.ejrh.2025.102689)
 
@@ -100,7 +100,7 @@ Ware, H. H., **Mengistu, T. D.**, Yifru, B. A., Chang, S. W., Chung, I. M. (2023
 ---
 
 
-## 🌐 Connect
+## Connect
 
 <p align="center" style="display: flex; justify-content: center; gap: 8px; flex-wrap: nowrap;">
   <!-- Email -->
