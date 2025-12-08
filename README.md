@@ -15,7 +15,6 @@ Hydrologist and ML researcher integrating physics-guided hydrological models wit
 </p>
 
 
-
 ---
 
 ## Research Interests
