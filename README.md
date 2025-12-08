@@ -15,8 +15,6 @@ Hydrologist, Data Scientist and Machine Learning researcher integrating physics-
 </p>
 
 
-
-
 ## Research Interests 
 - Bayesian hydrology  
 - Uncertainty quantification  
@@ -41,18 +39,19 @@ Coming soon…
 
 ## Technical Skills
 
-### **Machine Learning & AI**
+#### **Machine Learning & AI**
 - Regression · Classification · Ensemble ML  
 - Bayesian NN · CNN · RNN/LSTM
 - XAI · Explainable ML  
-### **Data & Scientific Computing**
+#### **Data & Scientific Computing**
 - NumPy · Pandas · SciPy · GeoPandas · Matplotlib · Scikit-learn · TensorFlow · TFP 
-### **Climate Modeling**
+#### **Climate Modeling**
 - CORDEX · CMIP5 · CMIP6  
-### **Hydrological Modeling**
+#### **Hydrological Modeling**
 - SWAT · SWAT+ · SWAT-MODFLOW  
-### **Programming & Tools**
+#### **Programming & Tools**
 - Python · GIS · Remote Sensing · LaTeX· GitHub
+- 
 ## Awards 
 
 Coming soon…
