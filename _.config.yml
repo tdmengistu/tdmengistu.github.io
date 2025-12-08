@@ -1,24 +1,13 @@
- theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 
 title: "Tarekegn Dejen Mengistu"
-description: "Hydrology · Machine Learning · Uncertainty Modeling · Environmental Data Science"
+description: "Hydrology · Machine Learning · Environmental Data Science"
 
-# Gradient-feel customization (Cayman supports these overrides)
-cayman:
-  header-bg-color: "#0f172a"
-  header-bg-color-secondary: "#1e3a8a"
-  section-bg-color: "#e0f2fe"
-
-brand-color: "#3b82f6"
-text-color: "#0f172a"
-link-color: "#1d4ed8"
-link-hover-color: "#2563eb"
-
-show_downloads: false
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
 
 
 
