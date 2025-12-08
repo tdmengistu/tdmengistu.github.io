@@ -1,11 +1,4 @@
-# ===============================
-# GitHub Pages Portfolio Config
-# Tarekegn Dejen Mengistu
-# Hydrology × Machine Learning × Data Science
-# ===============================
-
 title: "Tarekegn Dejen Mengistu"
-description: "Hydrology · Machine Learning · Uncertainty Modeling · Environmental Data Science"
-
-theme: jekyll-theme-cayman
+description: "Hydrology × Machine Learning Research Portfolio"
+theme: jekyll-theme-slate
 
