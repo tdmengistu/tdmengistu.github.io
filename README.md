@@ -39,12 +39,14 @@ Coming soon…
 
 ## Technical Skills
 
- #### **Machine Learning & AI**
+ 
+#### **Data & Scientific Computing**
+- NumPy · Pandas · SciPy · GeoPandas · Matplotlib · Scikit-learn · TensorFlow · TFP
+
+#### **Machine Learning & AI**
 - Regression · Classification · Ensemble ML  
 - Bayesian NN · CNN · RNN/LSTM
-- XAI · Explainable ML  
-#### **Data & Scientific Computing**
-- NumPy · Pandas · SciPy · GeoPandas · Matplotlib · Scikit-learn · TensorFlow · TFP 
+- XAI · Explainable ML 
 #### **Climate Modeling**
 - CORDEX · CMIP5 · CMIP6  
 #### **Hydrological Modeling**
