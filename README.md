@@ -38,20 +38,11 @@ Hydrologist, Data Scientist and Machine Learning researcher integrating physics-
 Coming soon…
 
 ## Technical Skills
-
- 
-### **Data & Scientific Computing**
-- NumPy · Pandas · SciPy · GeoPandas · Matplotlib · Scikit-learn · TensorFlow · TFP
-
-### **Machine Learning & AI**
-- Regression · Classification · Ensemble ML  
+- NumPy · Pandas · SciPy · GeoPandas · Matplotlib · Scikit-learn · TensorFlow
+- Regression · Classification · Ensemble ML . XAI  
 - Bayesian NN · CNN · RNN/LSTM
-- XAI · Explainable ML 
-### **Climate Modeling**
 - CORDEX · CMIP5 · CMIP6  
-### **Hydrological Modeling**
 - SWAT · SWAT+ · SWAT-MODFLOW  
-### **Programming & Tools**
 - Python · GIS · Remote Sensing · LaTeX· GitHub
 
   
