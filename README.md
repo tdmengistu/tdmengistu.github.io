@@ -4,17 +4,9 @@
 Hydrologist and ML researcher integrating physics-guided hydrological models with probabilistic deep learning, Bayesian inference, and large-scale hydroclimate data analytics to build resilient predictive systems.
 
 
-### Education
-- Ph.D., Water Resourcs |2025
-- M.S., Data Scince |2018
-- B.S., Hydraulic Engineering |2015
-## Work Experience
-Researcher, KICT
-
-
 ## 📘 Research Interests
 
-- ML–Hydrology integration  
+- ML–Hydrology  
 - Uncertainty quantification (Bayesian, TFP, BNNs)  
 - Climate change impact modeling  
 - XAI for environmental systems  
@@ -24,14 +16,12 @@ Researcher, KICT
 
 ## 🎓 Education
 
-- **PhD, Environmental & Water Resources Engineering**, UST Korea (2021–2025)  
-  *Dissertation: Physics-Guided ML for Adaptive Water Management under Uncertainty*  
-- **MSc, Hydraulic Engineering**, JU  
-  *Thesis: Regional Flood Frequency Analysis*  
-- **BSc, Hydraulic & Water Resources Engineering**, JU  
-  *Final Year Project: Design and Analysis of Small-scale Irrigation Project*
+- PhD, Water Resources Engineering, UST (2025)  
 
----
+- MSc, Hydraulic Engineering, JU  
+  
+- BSc, Hydraulic & Water Resources Engineering, JU  
+
 
 ## 🧪 Technical Skills
 
@@ -60,14 +50,12 @@ Researcher, KICT
 ---
 
 ## 📚 Selected Publications
-
-
+-
+-
 
 ## 🏆 Awards
 - **Best Poster Award**, SWAT Conference (2024)  
 - **Doctoral Research Scholarship**, UST (2021–2026)
-
----
 
 ## 🧑‍🏫 Experience
 
@@ -76,10 +64,13 @@ Researcher, KICT
 - Developed large-scale climate datasets  
 - Led probabilistic prediction & uncertainty analysis pipelines  
 
-### 🇪🇹 **Jimma University — Lecturer / Assistant Lecturer**  
+### 🇪🇹 **Jimma University — Lecturer**  
+- Taught hydrology, hydraulics, river engineering  
+- Supervised undergraduate research
+  
+### 🇪🇹 **Jimma University — Assistant Lecturer**  
 - Taught hydrology, hydraulics, river engineering  
 - Supervised undergraduate research  
-
 
 
 
