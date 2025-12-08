@@ -2,15 +2,19 @@ Hydrologist, Data Scientist and Machine Learning researcher integrating physics-
 
 ---
 <p align="center" style="display:flex;justify-content:center;gap:18px;flex-wrap:nowrap;font-size:16px;">
+
 <a href="#research-interests">Research Interests</a> |
-<a href="#🧪-technical-skills">Technical Skills</a> |
-<a href="#🎓-education">Education</a> |
-<a href="#🧑‍🏫-experience">Experience</a> |
+<a href="#education">Education</a> |
 <a href="#advance-certifications">Certifications</a> |
-<a href="#🏆-awards">Awards</a> |
-<a href="#📚-selected-publications">Publications</a> |
+<a href="#experience">Experiences</a> |
+<a href="#technical-skills">Technical Skills</a> |
+<a href="#awards">Awards</a> |
+<a href="#selected-publications">Publications</a> |
 <a href="#connect">More</a>
+
 </p>
+
+
 
 ## 🌎 Research Interests
 - Bayesian hydrology  
@@ -25,43 +29,34 @@ Hydrologist, Data Scientist and Machine Learning researcher integrating physics-
 - MSc, Hydraulic Engineering  
 - BSc, Hydraulic & Water Resources Engineering  
 
-## 🏅 Advanced Certifications
+## 🏅 Certifications
 - Probabilistic Deep Learning
 - Deep Learning
 - Machine Learning
 - Data Science
-  
+
+## 🧑‍🏫 Experiences 
+Coming soon…
+
 ## 🧠 Technical Skills
 
 ### **Machine Learning & AI**
 - Regression · Classification · Ensemble ML  
 - Bayesian NN · CNN · RNN/LSTM
 - XAI · Explainable ML  
-
 ### **Data & Scientific Computing**
 - NumPy · Pandas · SciPy · GeoPandas · Matplotlib · Scikit-learn · TensorFlow · TFP 
-
 ### **Climate Modeling**
 - CORDEX · CMIP5 · CMIP6  
-
 ### **Hydrological Modeling**
 - SWAT · SWAT+ · SWAT-MODFLOW  
-
 ### **Programming & Tools**
 - Python · GIS · Remote Sensing · LaTeX· GitHub
+## 🏆 Awards 
 
-
-## 🏆 Award & Honors 
-Coming soon…
-
-
-
-## 🧑‍🏫 Experience  
 Coming soon…
 
 ---
-
-
 
 ## 📚 Publications (SCIE)
 
