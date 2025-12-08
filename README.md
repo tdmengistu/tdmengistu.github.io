@@ -1,32 +1,22 @@
-# Hydrology × Machine Learning × Uncertainty
+
 ## I'm Tarekegn Dejen Mengistu
 
 Hydrologist and ML researcher integrating physics-guided hydrological models with probabilistic deep learning, Bayesian inference, and large-scale hydroclimate data analytics to build resilient predictive systems.
-
-
-## 📘 Research Interests
-
+## Research Interests
 - ML–Hydrology  
-- Uncertainty quantification (Bayesian, TFP, BNNs)  
-- Climate change impact modeling  
+- Uncertainty quantification 
 - XAI for environmental systems  
 - Geospatial analytics & large-scale hydro-climatic datasets
-
 ---
 
 ## 🎓 Education
-
 - PhD, Water Resources Engineering, UST (2025)  
-
 - MSc, Hydraulic Engineering, JU  
-  
 - BSc, Hydraulic & Water Resources Engineering, JU  
-
 
 ## 🧪 Technical Skills
 
 ### **Machine Learning & AI**
-- TensorFlow · TFP · Scikit-learn
 - ensemble ML    
 - Bayesian NNs
 - CNN, RNN/LSTM, 
@@ -50,30 +40,53 @@ Hydrologist and ML researcher integrating physics-guided hydrological models wit
 ---
 
 ## 📚 Selected Publications
--
--
-
 ## 🏆 Awards
-- **Best Poster Award**, SWAT Conference (2024)  
-- **Doctoral Research Scholarship**, UST (2021–2026)
-
 ## 🧑‍🏫 Experience
 
-### 🇰🇷 **KICT — Research Fellow (UST Trainee)**  
-- Built ML–hydrology hybrid frameworks  
-- Developed large-scale climate datasets  
-- Led probabilistic prediction & uncertainty analysis pipelines  
-
-### 🇪🇹 **Jimma University — Lecturer**  
-- Taught hydrology, hydraulics, river engineering  
-- Supervised undergraduate research
-  
-### 🇪🇹 **Jimma University — Assistant Lecturer**  
-- Taught hydrology, hydraulics, river engineering  
-- Supervised undergraduate research  
 
 
 
 
+
+<h3 align="center">Hydrologist · Machine Learning Researcher · Data Scientist</h3>
+
+<p align="center" style="display: flex; justify-content: center; gap: 8px; flex-wrap: nowrap;">
+
+  <!-- Email -->
+  <a href="mailto:taredejum6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://tdmengistu.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/tdmengistu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/tdmengistu21">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- ResearchGate -->
+  <a href="https://www.researchgate.net/profile/Tarekegn-Mengistu">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
+
+  <!-- ORCID -->
+  <a href="https://orcid.org/0000-0001-9812-3460">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
+
+  <!-- Google Scholar -->
+  <a href="https://scholar.google.com/citations?user=cIRXJbgAAAAJ&hl=ko&oi=ao">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+
+</p>
 
 
