@@ -34,9 +34,6 @@ Hydrologist, Data Scientist and Machine Learning researcher integrating physics-
 - Machine Learning
 - Data Science
 
-## Experiences 
-Coming soon…
-
 ## Technical Skills
 - NumPy · Pandas · SciPy · GeoPandas · Matplotlib · Scikit-learn · TensorFlow
 - Regression · Classification · Ensemble ML . XAI  
