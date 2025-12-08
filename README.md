@@ -39,7 +39,7 @@ Coming soon…
 
 ## Technical Skills
 
-#### **Machine Learning & AI**
+ #### **Machine Learning & AI**
 - Regression · Classification · Ensemble ML  
 - Bayesian NN · CNN · RNN/LSTM
 - XAI · Explainable ML  
@@ -51,7 +51,6 @@ Coming soon…
 - SWAT · SWAT+ · SWAT-MODFLOW  
 #### **Programming & Tools**
 - Python · GIS · Remote Sensing · LaTeX· GitHub
-- 
 ## Awards 
 
 Coming soon…
