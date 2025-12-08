@@ -3,23 +3,24 @@ Hydrologist, Data Scientist and Machine Learning researcher integrating physics-
 ---
 <p align="center" style="display:flex;justify-content:center;gap:18px;flex-wrap:nowrap;font-size:16px;">
 <a href="#research-interests">Research Interests</a> |
-<a href="#🎓-education">Education</a> |
-<a href="#advance-certifications">Certifications</a> |
 <a href="#🧪-technical-skills">Technical Skills</a> |
-<a href="#📚-selected-publications">Publications</a> |
-<a href="#🏆-awards">Awards</a> |
+<a href="#🎓-education">Education</a> |
 <a href="#🧑‍🏫-experience">Experience</a> |
-<a href="#connect">Connect</a>
+<a href="#advance-certifications">Certifications</a> |
+<a href="#🏆-awards">Awards</a> |
+<a href="#📚-selected-publications">Publications</a> |
+<a href="#connect">More</a>
 </p>
 
 
 ---
 
 ## Research Interests
-- ML–Hydrology  
+- Bayesian Hydrology  
 - Uncertainty quantification  
 - XAI for environmental systems  
-- Geospatial analytics & large-scale hydro-climatic datasets  
+- Large-scale hydro-climate analytics
+- River–aquifer interaction modeling   
 
 ---
 
@@ -30,32 +31,33 @@ Hydrologist, Data Scientist and Machine Learning researcher integrating physics-
 - **BSc**, Hydraulic & Water Resources Engineering  
 
 ---
+ ## 🧪 Technical Skills
 
+### **Machine Learning & AI**
+- Regression · Classification · Ensemble ML  
+- Bayesian NN · CNN · RNN/LSTM
+- XAI · Explainable ML  
+  
 
-## 🧪 Technical Skills
+### **Data & Scientific Computing**
+- NumPy · Pandas · SciPy · GeoPandas · Matplotlib · Scikit-learn · TensorFlow · TFP 
 
-### Machine Learning & AI
-- Ensemble ML  
-- Bayesian Neural Networks  
-- CNN, RNN/LSTM  
-- XAI  
+### **Climate Modeling**
+- CORDEX · CMIP5 · CMIP6  
 
-### Data & Scientific Computing
-- NumPy • Pandas • SciPy • GeoPandas  
-- GIS workflows • Geospatial analytics  
-- Hydro-climate data processing  
+### **Hydrological Modeling**
+- SWAT · SWAT+ · SWAT-MODFLOW  
 
-### Hydrological / Environmental Modeling
-- SWAT • SWAT+ • SWAT-MODFLOW  
-- River–aquifer interaction modeling  
-- Climate modeling  
+### **Programming & Tools**
+- Python · GIS · Remote Sensing · LaTeX· GitHub
+
 
 ---
 
 
 ---
 
-## 🏆 Awards  
+## 🏆 Award & Honors 
 Coming soon…
 
 ---
