@@ -1,4 +1,4 @@
- # I'm Tarekegn Dejen Mengistu
+# I'm Tarekegn Dejen Mengistu
 
 Hydrologist and ML researcher integrating physics-guided hydrological models with probabilistic deep learning, Bayesian inference, and large-scale hydroclimate data analytics to build resilient predictive systems.
 
