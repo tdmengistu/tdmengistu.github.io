@@ -40,19 +40,21 @@ Coming soon…
 ## Technical Skills
 
  
-#### **Data & Scientific Computing**
+### **Data & Scientific Computing**
 - NumPy · Pandas · SciPy · GeoPandas · Matplotlib · Scikit-learn · TensorFlow · TFP
 
-#### **Machine Learning & AI**
+### **Machine Learning & AI**
 - Regression · Classification · Ensemble ML  
 - Bayesian NN · CNN · RNN/LSTM
 - XAI · Explainable ML 
-#### **Climate Modeling**
+### **Climate Modeling**
 - CORDEX · CMIP5 · CMIP6  
-#### **Hydrological Modeling**
+### **Hydrological Modeling**
 - SWAT · SWAT+ · SWAT-MODFLOW  
-#### **Programming & Tools**
+### **Programming & Tools**
 - Python · GIS · Remote Sensing · LaTeX· GitHub
+
+  
 ## Awards 
 
 Coming soon…
