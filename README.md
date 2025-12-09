@@ -46,23 +46,23 @@ Hydrologist, Data Scientist and Machine Learning researcher integrating physics-
 
 ## Publications (SCIE)
 
-**Mengistu, T. D.**, Chung, I., Kim, M., Chang, S. W. (2025). *Coupled SWAT–MODFLOW model for assessing watershed responses to groundwater sustainability: A novel ensemble approach.* *Journal of Hydrology: Regional Studies*, 61, 102689. [DOI](https://doi.org/10.1016/j.ejrh.2025.102689)
+**Mengistu, T. D.**, Chung, I., Kim, M., Chang, S. W. (2025). *Coupled SWAT–MODFLOW model for assessing watershed responses to groundwater sustainability: A novel ensemble approach.* *Journal of Hydrology: Regional Studies* (IF=5), 61, 102689. [DOI](https://doi.org/10.1016/j.ejrh.2025.102689)
 
-**Mengistu, T. D.**, Chang, S. W., Chung, I. M. (2025).  *Modeling and prediction of climate change impacts on water resources vulnerability: A multi-model approach.*  *Journal of Environmental Management*, 388, 126025.  [DOI](https://doi.org/10.1016/j.jenvman.2025.126025)
+**Mengistu, T. D.**, Chang, S. W., Chung, I. M. (2025).  *Modeling and prediction of climate change impacts on water resources vulnerability: A multi-model approach.*  *Journal of Environmental Management*(IF=8.4)., 388, 126025.  [DOI](https://doi.org/10.1016/j.jenvman.2025.126025)
 
-**Mengistu, T. D.**, Chung, I. M., Talpur, Z., Alemayehu, E. (2024).  *Quantifying regional low flows under data scarce conditions.* **Heliyon**, 10(7), e28728.  [DOI](https://doi.org/10.1016/j.heliyon.2024.e28728).
+**Mengistu, T. D.**, Chung, I. M., Talpur, Z., Alemayehu, E. (2024).  *Quantifying regional low flows under data scarce conditions.* **Heliyon* (IF=4), 10(7), e28728.  [DOI](https://doi.org/10.1016/j.heliyon.2024.e28728).
 
-Talpur, Z., Zaidi, A. Z., Ahmed, S., **Mengistu, T. D.**, Choi, S. J., Chung, I. M. (2023).  *Estimation of crop water productivity using GIS and remote sensing techniques.*  *Sustainability*, 15(14), 11154.  [DOI](https://doi.org/10.3390/su151411154)
+Talpur, Z., Zaidi, A. Z., Ahmed, S., **Mengistu, T. D.**, Choi, S. J., Chung, I. M. (2023).  *Estimation of crop water productivity using GIS and remote sensing techniques.*  *Sustainability*(IF=3.9), 15(14), 11154.  [DOI](https://doi.org/10.3390/su151411154)
 
-Ware, H. H., **Mengistu, T. D.**, Yifru, B. A., Chang, S. W., Chung, I. M. (2023).  *Assessment of spatiotemporal groundwater recharge distribution using SWAT-MODFLOW model and transient water table fluctuation method.*  *Water*, 15(11), 2112.  [DOI](https://doi.org/10.3390/w15112112)
+Ware, H. H., **Mengistu, T. D.**, Yifru, B. A., Chang, S. W., Chung, I. M. (2023).  *Assessment of spatiotemporal groundwater recharge distribution using SWAT-MODFLOW model and transient water table fluctuation method.*  *Water*(IF=3.4), 15(11), 2112.  [DOI](https://doi.org/10.3390/w15112112)
 
-**Mengistu, T. D.**, Chung, I.-M., Kim, M. G., Chang, S. W., Lee, J. E. (2022).  *Impacts and implications of land use land cover dynamics on groundwater recharge and surface runoff in East African watershed.*  *Water*, 14(13), 2068.  [DOI](https://doi.org/10.3390/w14132068)
+**Mengistu, T. D.**, Chung, I.-M., Kim, M. G., Chang, S. W., Lee, J. E. (2022).  *Impacts and implications of land use land cover dynamics on groundwater recharge and surface runoff in East African watershed.*  *Water*(IF=3.53), 14(13), 2068.  [DOI](https://doi.org/10.3390/w14132068)
 
-**Mengistu, T. D.**, Chang, S. W., Kim, I. H., Kim, M. G., Chung, I. M. (2022).  *Determination of potential aquifer recharge zones using geospatial techniques for proxy data of Gilgel Gibe Catchment, Ethiopia.* *Water*, 14(9), 1362.  [DOI](https://doi.org/10.3390/w14091362)
+**Mengistu, T. D.**, Chang, S. W., Kim, I. H., Kim, M. G., Chung, I. M. (2022).  *Determination of potential aquifer recharge zones using geospatial techniques for proxy data of Gilgel Gibe Catchment, Ethiopia.* *Water*(IF=3.53), 14(9), 1362.  [DOI](https://doi.org/10.3390/w14091362)
 
-**Mengistu, T. D.**, Feyissa, T. A., Chung, I. M., Chang, S. W., Yesuf, M. B., Alemayehu, E. (2022).  *Regional flood frequency analysis for sustainable water resources management of Genale–Dawa River Basin, Ethiopia.*  *Water*, 14(4), 637.  [DOI](https://doi.org/10.3390/w14040637)
+**Mengistu, T. D.**, Feyissa, T. A., Chung, I. M., Chang, S. W., Yesuf, M. B., Alemayehu, E. (2022).  *Regional flood frequency analysis for sustainable water resources management of Genale–Dawa River Basin, Ethiopia.*  *Water*(IF=3.53), 14(4), 637.  [DOI](https://doi.org/10.3390/w14040637)
 
-**Mengistu, T. D.**, Chung, I. M., Chang, S. W., Yifru, B. A., Kim, M. G., Lee, J., et al. (2021).  *Challenges and prospects of advancing groundwater research in Ethiopian aquifers*  *Sustainability*, 13(20), 11500.  [DOI](https://doi.org/10.3390/su132011500)
+**Mengistu, T. D.**, Chung, I. M., Chang, S. W., Yifru, B. A., Kim, M. G., Lee, J., et al. (2021).  *Challenges and prospects of advancing groundwater research in Ethiopian aquifers*  *Sustainability*(IF=3.889), 13(20), 11500.  [DOI](https://doi.org/10.3390/su132011500)
 
 
 ## Conference Presentations
