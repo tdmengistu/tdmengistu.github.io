@@ -20,12 +20,13 @@ Hydrologist, Data Scientist and Machine Learning researcher integrating physics-
 - Uncertainty quantification  
 - Explainable AI (XAI) for environmental systems  
 - Large-scale hydro-climatic data analytics  
-- River–aquifer interaction modeling
+- River–aquifer interaction
 
 ## Education 
 - PhD, Water Resources Engineering
+- MSc, Data Science 
 - MSc, Hydraulic Engineering  
-- BSc, Hydraulic & Water Resources Engineering  
+- BSc, Water Resources Engineering  
 
 ## Certifications
 - Probabilistic Deep Learning
