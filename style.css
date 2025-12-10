@@ -9,7 +9,7 @@
     --btn-hover: #3a98b9;
     --card-bg: #1c1c1c;
     --card-border: #333;
-    --shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+    --shadow: 0 4px 30px rgba(0, 0, 0.01, 0.4);
   }
 }
 
