@@ -24,7 +24,6 @@ Hydrologist, Data Scientist and Machine Learning researcher integrating physics-
 
 ## Education 
 - PhD, Water Resources Engineering
-- MSc, Data Science 
 - MSc, Hydraulic Engineering  
 - BSc, Water Resources Engineering  
 
