@@ -17,30 +17,16 @@ Hydrologist, Data Scientist and Machine Learning researcher integrating physics-
 
 ## Research Interests 
 - Bayesian hydrology  
-- Uncertainty quantification  
 - Explainable AI (XAI) for environmental systems  
-- Large-scale hydro-climatic data analytics  
+- Hydro-climatic data analytics  
 - River–aquifer interaction
 
 ## Education 
 - PhD, Water Resources Engineering
+- MSc, Data Science 
 - MSc, Hydraulic Engineering  
 - BSc, Water Resources Engineering  
-
-## Certifications
-- Probabilistic Deep Learning
-- Deep Learning
-- Machine Learning
-- Data Science
-
-## Technical Skills
-- NumPy · Pandas · SciPy · GeoPandas · Matplotlib · Scikit-learn · TensorFlow
-- Regression · Classification · Ensemble ML . XAI  
-- Bayesian NN · CNN · RNN/LSTM
-- CORDEX · CMIP5 · CMIP6  
-- SWAT · SWAT+ · SWAT-MODFLOW  
-- Python · GIS · Remote Sensing · LaTeX· GitHub
-  
+ 
 ---
 
 ## Publications (SCIE)
