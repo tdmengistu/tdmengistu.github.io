@@ -9,7 +9,7 @@
     --btn-hover: #3a51b8;
     --card-bg: #1c3c2c;
     --card-border: #3624;
-    --shadow: 0 4px 30px rgba(0, 0.000, 0.00, 0.1);
+    --shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
   }
 }
 
@@ -38,14 +38,14 @@ body {
 a {
   color: var(--accent);
   text-decoration: none;
-  transition: color 0.5s;
+  transition: color 0.1s;
 }
 a:hover {
   color: var(--btn-hover);
 }
 
 .container {
-  max-width: 1260px;
+  max-width: 1240px;
   margin: auto;
   padding: 2rem 2rem;
 }
@@ -127,8 +127,8 @@ ul {
 
 footer {
   text-align: center;
-  padding: 2rem;
-  background: #111;
+  padding: 4rem;
+  background: #222;
   color: white;
   font-size: 0.5rem;
 }
