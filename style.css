@@ -1,11 +1,11 @@
- /* ==============================
+/* ==============================
    Dark Mode (System Preference)
    ============================== */
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #0f0f11;
     --text: #e0e0e0;
-    --heading: #333366;
+    --heading: #b2b5ff;
     --accent: #80cbc4; /* soft teal */
     --header-bg: linear-gradient(135deg, #1a1a2e, #21243d);
     --header-text: #ffffff;
@@ -23,7 +23,7 @@
 :root {
   --bg: #f9f9fb;
   --text: #2a2a2a;        /* deep gray for clean reading */
-  --heading: #14213d;     /* academic indigo */
+  --heading: #333366;     /* academic indigo */
   --accent: #1a73e8;      /* Google blue for links */
   --header-bg: linear-gradient(135deg, #dde1f8, #f5f7fa);
   --header-text: #222;
