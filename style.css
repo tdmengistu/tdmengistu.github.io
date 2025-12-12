@@ -1,29 +1,31 @@
- @media (prefers-color-scheme: dark) {
+ /* Dark Mode */
+@media (prefers-color-scheme: dark) {
   :root {
     --bg: #0f0f11;
     --text: #f0f0f0;
     --accent: #2cc1f0;
     --header-bg: linear-gradient(135deg, #1a1a1e, #12213e);
     --header-text: #ffffff;
-    --btn-bg: #5cc9f0;
-    --btn-hover: #3a51b8;
-    --card-bg: #1c3c2c;
-    --card-border: #3624;
-    --shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+    --btn-bg: #2cc1f0;
+    --btn-hover: #1b8ecb;
+    --card-bg: #1f1f25;
+    --card-border: #36424a;
+    --shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
   }
 }
 
+/* Light Mode (Default) */
 :root {
-  --bg: linear-gradient(to bottom, #f0f4f11, #ffffff);
+  --bg: linear-gradient(to bottom, #f0f4f1, #ffffff);
   --text: #222;
-  --accent: #0020f3;
+  --accent: #0030f3;
   --header-bg: linear-gradient(135deg, #001cf0, #00dfd2);
   --header-text: #ffffff;
-  --btn-bg: #102cf0;
-  --btn-hover: #2024b3;
+  --btn-bg: #003cf0;
+  --btn-hover: #1024b3;
   --card-bg: #ffffff;
   --card-border: #e0e0e0;
-  --shadow: 0 3px 50px rgba(0, 0, 0, 0.05);
+  --shadow: 0 3px 30px rgba(0, 0, 0, 0.05);
 }
 
 body {
@@ -31,49 +33,49 @@ body {
   font-family: 'Fira Code', monospace;
   background: var(--bg);
   color: var(--text);
-  line-height: 1.3;
+  line-height: 1.5;
   scroll-behavior: smooth;
 }
 
 a {
   color: var(--accent);
   text-decoration: none;
-  transition: color 0.1s;
+  transition: color 0.2s ease;
 }
 a:hover {
   color: var(--btn-hover);
 }
 
 .container {
-  max-width: 1240px;
+  max-width: 1200px;
   margin: auto;
-  padding: 2rem 2rem;
+  padding: 2rem;
 }
 
 header {
   background: var(--header-bg);
   color: var(--header-text);
   text-align: center;
-  padding: 3rem 2rem;
+  padding: 4rem 2rem;
 }
 header h1 {
-  font-size: 2.2rem;
+  font-size: 2.6rem;
   margin-bottom: 0.3rem;
 }
 header p {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   max-width: 700px;
-  margin: auto;
+  margin: 0 auto 1rem;
 }
 header nav {
   margin-top: 2rem;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 12px;
+  gap: 14px;
 }
 header nav a {
-  font-weight: bold;
+  font-weight: 600;
   border-bottom: 2px solid transparent;
 }
 header nav a:hover {
@@ -84,15 +86,17 @@ section h2 {
   font-size: 2rem;
   color: var(--accent);
   margin-bottom: 1rem;
-  border-left: 5px solid var(--accent);
-  padding-left: 10px;
+  border-left: 4px solid var(--accent);
+  padding-left: 12px;
 }
 
 ul {
-  margin-left: 1.2rem;
-  padding-left: 1rem;
+  padding-left: 1.5rem;
   list-style-type: square;
+  line-height: 1.6;
+  margin-top: 0.5rem;
 }
+
 .profile-img {
   width: 160px;
   height: 160px;
@@ -105,13 +109,13 @@ ul {
 
 .btn {
   display: inline-block;
-  margin-top: 1rem;
-  padding: 0.4rem 1.1rem;
+  margin-top: 1.2rem;
+  padding: 0.6rem 1.3rem;
   background: var(--btn-bg);
   color: white;
-  border-radius: 3px;
-  font-weight: bold;
-  transition: background 0.3s;
+  border-radius: 5px;
+  font-weight: 600;
+  transition: background 0.3s ease;
 }
 .btn:hover {
   background: var(--btn-hover);
@@ -127,8 +131,8 @@ ul {
 
 footer {
   text-align: center;
-  padding: 4rem;
-  background: #222;
+  padding: 2rem;
+  background: #1a1a1a;
   color: white;
-  font-size: 0.5rem;
+  font-size: 0.85rem;
 }
