@@ -1,81 +1,236 @@
- /* Base reset */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+/* ==============================
+   Dark Mode (System Preference)
+   ============================== */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f0f11;
+    --text: #f0f0f0;
+    --accent: #2cc1f0;
+    --heading: #9aa4ff;
+    --header-bg: linear-gradient(135deg, #1a1a1e, #12213e);
+    --header-text: #ffffff;
+    --btn-bg: #2cc1f0;
+    --btn-hover: #1b8ecb;
+    --card-bg: #1f1f25;
+    --card-border: #36424a;
+    --shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+  }
 }
+
+/* ==============================
+   Light Mode (Default)
+   ============================== */
+:root {
+  --bg: linear-gradient(to bottom, #f0f4f1, #ffffff);
+  --text: #222;
+  --accent: #0030f3;
+  --heading: #4b0082;
+  --header-bg: linear-gradient(135deg, #001cf0, #00dfd2);
+  --header-text: #ffffff;
+  --btn-bg: #003cf0;
+  --btn-hover: #1024b3;
+  --card-bg: #ffffff;
+  --card-border: #e0e0e0;
+  --shadow: 0 3px 30px rgba(0, 0, 0, 0.05);
+}
+
+/* ==============================
+   Global Styles
+   ============================== */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+}
+
 body {
-  font-family: 'Fira Code', monospace;
+  margin: 0;
+  font-family: 'Fira Code', 'Courier New', Courier, monospace;
+  background: var(--bg);
+  color: var(--text);
   line-height: 1.6;
-  background-color: #f8f9fa;
-  color: #333;
 }
+
+/* ==============================
+   Links
+   ============================== */
 a {
+  color: var(--accent);
   text-decoration: none;
-  color: #0070f3;
+  transition: color 0.2s ease;
 }
+a:hover {
+  color: var(--btn-hover);
+}
+
+/* ==============================
+   Layout
+   ============================== */
 .container {
-  width: 90%;
-  max-width: 1000px;
+  max-width: 1200px;
   margin: auto;
-  padding: 2rem 0;
+  padding: 2rem;
 }
+
+/* ==============================
+   Header
+   ============================== */
 header {
-  background-color: #282c34;
-  color: white;
-  padding: 3rem 0;
+  background: var(--header-bg);
+  color: var(--header-text);
   text-align: center;
+  padding: 4rem 2rem;
 }
+
 header h1 {
-  font-size: 2.5rem;
+  font-size: 2.6rem;
+  margin-bottom: 0.3rem;
 }
-header .btn {
+
+header p {
+  font-size: 1.1rem;
+  max-width: 720px;
+  margin: 0 auto 1rem;
+}
+
+header nav {
+  margin-top: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 14px;
+}
+
+header nav a {
+  font-weight: 600;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
+}
+
+header nav a:hover {
+  border-color: var(--header-text);
+}
+
+/* ==============================
+   Section Headings
+   ============================== */
+section h2 {
+  font-size: 2.1rem;
+  font-weight: 600;
+  color: var(--heading);
+  margin-bottom: 1.2rem;
+  border-left: 5px solid var(--heading);
+  padding-left: 14px;
+  line-height: 1.3;
+  letter-spacing: 0.5px;
+  background: linear-gradient(to right, var(--heading), transparent 70%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: currentColor;
+}
+
+/* ==============================
+   Lists
+   ============================== */
+ul {
+  padding-left: 1.5rem;
+  list-style-type: square;
+  line-height: 1.6;
+  margin-top: 0.5rem;
+}
+
+/* ==============================
+   Profile Image
+   ============================== */
+.profile-img {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 1rem;
+  box-shadow: var(--shadow);
+}
+
+/* ==============================
+   Buttons
+   ============================== */
+.btn {
   display: inline-block;
-  margin-top: 1rem;
-  padding: 0.6rem 1.2rem;
-  background: #0070f3;
+  margin-top: 1.2rem;
+  padding: 0.6rem 1.3rem;
+  background: var(--btn-bg);
   color: white;
   border-radius: 5px;
-  transition: background 0.3s;
+  font-weight: 600;
+  transition: background 0.3s ease;
 }
-header .btn:hover {
-  background: #0056b3;
-}
-
-section h2 {
-  margin-bottom: 1rem;
-  font-size: 2rem;
-  color: #222;
+.btn:hover {
+  background: var(--btn-hover);
 }
 
-.project-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
+/* ==============================
+   Social Badges
+   ============================== */
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 1rem;
 }
-.project-card {
-  background: #fff;
-  padding: 1rem;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  transition: transform 0.2s, box-shadow 0.2s;
+
+/* ==============================
+   Timeline (Academic Section)
+   ============================== */
+.timeline {
+  border-left: 3px solid var(--heading);
+  margin: 2rem 0;
+  padding-left: 1.5rem;
+  position: relative;
 }
-.project-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: -7px;
+  top: 0;
+  width: 14px;
+  height: 14px;
+  background-color: var(--heading);
+  border-radius: 50%;
 }
-.project-card h3 {
-  margin-bottom: 0.5rem;
+
+.event {
+  margin-bottom: 1.5rem;
+  position: relative;
 }
-.project-card a {
-  color: #0070f3;
+
+.event::before {
+  content: '';
+  position: absolute;
+  left: -9px;
+  top: 5px;
+  width: 10px;
+  height: 10px;
+  background-color: var(--accent);
+  border-radius: 50%;
+}
+
+.event .year {
   font-weight: bold;
+  color: var(--accent);
 }
 
+.event .details {
+  margin-left: 0.5rem;
+}
+
+/* ==============================
+   Footer
+   ============================== */
 footer {
   text-align: center;
   padding: 2rem;
-  background: #282c34;
+  background: #1a1a1a;
   color: white;
-  margin-top: 2rem;
+  font-size: 1rem;
 }
