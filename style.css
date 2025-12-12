@@ -2,19 +2,19 @@
    Dark Mode (System Preference)
    ============================== */
 @media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #0f0f11;
-    --text: #f0f0f0;
-    --accent: #2cc1f0;
-    --heading: #9aa4ff;
-    --header-bg: linear-gradient(135deg, #1a1a1e, #12213e);
-    --header-text: #ffffff;
-    --btn-bg: #2cc1f0;
-    --btn-hover: #1b8ecb;
-    --card-bg: #1f1f25;
-    --card-border: #36424a;
-    --shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
-  }
+:root {
+  --bg: #f9f9fb;
+  --text: #2a2a2a;
+  --heading: #14213d;
+  --accent: #1a73e8;
+  --header-bg: linear-gradient(135deg, #0d47a1, #1976d2); /* ✅ BLUE GRADIENT */
+  --header-text: #ffffff;
+  --btn-bg: #1a73e8;
+  --btn-hover: #0f5fd4;
+  --card-bg: #ffffff;
+  --card-border: #e0e0e0;
+  --shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
 }
 
 /* ==============================
@@ -71,7 +71,7 @@ header {
   background: var(--header-bg);
   color: var(--header-text);
   text-align: center;
-  padding: 4rem 2rem;
+  padding: 4rem 2rem 3rem;
 }
 
 header h1 {
