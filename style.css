@@ -1,18 +1,18 @@
-/* ==============================
+ /* ==============================
    Dark Mode (System Preference)
    ============================== */
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #0f0f11;
-    --text: #e0e0e0;
-    --heading: #b2b5ff;
-    --accent: #80cbc4; /* soft teal */
-    --header-bg: linear-gradient(135deg, #1a1a2e, #21243d);
+    --text: #f0f0f0;
+    --accent: #2cc1f0;
+    --heading: #9aa4ff;
+    --header-bg: linear-gradient(135deg, #1a1a1e, #12213e);
     --header-text: #ffffff;
-    --btn-bg: #80cbc4;
-    --btn-hover: #4db6ac;
-    --card-bg: #1e1e2a;
-    --card-border: #2c2c3c;
+    --btn-bg: #2cc1f0;
+    --btn-hover: #1b8ecb;
+    --card-bg: #1f1f25;
+    --card-border: #36424a;
     --shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
   }
 }
@@ -21,17 +21,17 @@
    Light Mode (Default)
    ============================== */
 :root {
-  --bg: #f9f9fb;
-  --text: #2a2a2a;        /* deep gray for clean reading */
-  --heading: #333366;     /* academic indigo */
-  --accent: #1a73e8;      /* Google blue for links */
-  --header-bg: linear-gradient(135deg, #dde1f8, #f5f7fa);
-  --header-text: #222;
-  --btn-bg: #1a73e8;
-  --btn-hover: #0f5fd4;
+  --bg: linear-gradient(to bottom, #f0f4f1, #ffffff);
+  --text: #222;
+  --accent: #0030f3;
+  --heading: #4b0082; /* Professional Indigo */
+  --header-bg: linear-gradient(135deg, #001cf0, #00dfd2);
+  --header-text: #ffffff;
+  --btn-bg: #003cf0;
+  --btn-hover: #1024b3;
   --card-bg: #ffffff;
   --card-border: #e0e0e0;
-  --shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  --shadow: 0 3px 30px rgba(0, 0, 0, 0.05);
 }
 
 /* ==============================
@@ -42,9 +42,8 @@ body {
   font-family: 'Fira Code', monospace;
   background: var(--bg);
   color: var(--text);
-  line-height: 1.6;
+  line-height: 1.5;
   scroll-behavior: smooth;
-  font-size: 16px;
 }
 
 a {
@@ -56,6 +55,9 @@ a:hover {
   color: var(--btn-hover);
 }
 
+/* ==============================
+   Layout
+   ============================== */
 .container {
   max-width: 1200px;
   margin: auto;
@@ -69,19 +71,18 @@ header {
   background: var(--header-bg);
   color: var(--header-text);
   text-align: center;
-  padding: 4rem 2rem 3rem;
+  padding: 4rem 2rem;
 }
 
 header h1 {
-  font-size: 2.8rem;
-  margin-bottom: 0.5rem;
-  font-weight: bold;
+  font-size: 2.6rem;
+  margin-bottom: 0.3rem;
 }
 
 header p {
-  font-size: 1.15rem;
-  max-width: 750px;
-  margin: 0 auto 1.2rem;
+  font-size: 1.1rem;
+  max-width: 720px;
+  margin: 0 auto 1rem;
 }
 
 header nav {
@@ -94,23 +95,23 @@ header nav {
 
 header nav a {
   font-weight: 600;
-  padding-bottom: 2px;
   border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
 }
+
 header nav a:hover {
-  border-color: var(--accent);
+  border-color: var(--header-text);
 }
 
 /* ==============================
    Section Headings
    ============================== */
 section h2 {
-  font-size: 1.8rem;
+  font-size: 2rem;
   color: var(--heading);
   margin-bottom: 1rem;
   border-left: 4px solid var(--heading);
   padding-left: 12px;
-  font-weight: bold;
 }
 
 /* ==============================
@@ -119,9 +120,8 @@ section h2 {
 ul {
   padding-left: 1.5rem;
   list-style-type: square;
-  line-height: 1.7;
+  line-height: 1.6;
   margin-top: 0.5rem;
-  font-size: 1rem;
 }
 
 /* ==============================
@@ -133,24 +133,24 @@ ul {
   border-radius: 50%;
   object-fit: cover;
   display: block;
-  margin: 0 auto 1.5rem;
+  margin: 0 auto 1rem;
   box-shadow: var(--shadow);
 }
 
 /* ==============================
-   Button
+   Buttons
    ============================== */
 .btn {
   display: inline-block;
-  margin-top: 1.5rem;
+  margin-top: 1.2rem;
   padding: 0.6rem 1.3rem;
   background: var(--btn-bg);
   color: white;
   border-radius: 5px;
   font-weight: 600;
   transition: background 0.3s ease;
-  font-size: 0.95rem;
 }
+
 .btn:hover {
   background: var(--btn-hover);
 }
@@ -161,9 +161,9 @@ ul {
 .badges {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
+  gap: 10px;
   justify-content: center;
-  margin-top: 1.5rem;
+  margin-top: 1rem;
 }
 
 /* ==============================
@@ -172,7 +172,7 @@ ul {
 footer {
   text-align: center;
   padding: 2rem;
-  background: #1c1c1c;
+  background: #1a1a1a;
   color: white;
-  font-size: 1rem;
+  font-size: 1rem; /* ✅ Normal readable size */
 }
