@@ -3,7 +3,7 @@
     --bg: #0f0f11;
     --text: #f0f0f0;
     --accent: #2cc1f0;
-    --header-bg: linear-gradient(135deg, #1a1a1e, #12413e);
+    --header-bg: linear-gradient(135deg, #1a1a1e, #12213e);
     --header-text: #ffffff;
     --btn-bg: #5cc9f0;
     --btn-hover: #3a51b8;
@@ -14,16 +14,16 @@
 }
 
 :root {
-  --bg: linear-gradient(to bottom, #f0f4f71, #ffffff);
+  --bg: linear-gradient(to bottom, #f0f4f11, #ffffff);
   --text: #222;
   --accent: #0020f3;
-  --header-bg: linear-gradient(135deg, #006cf0, #00dfd2);
+  --header-bg: linear-gradient(135deg, #001cf0, #00dfd2);
   --header-text: #ffffff;
   --btn-bg: #102cf0;
   --btn-hover: #2024b3;
   --card-bg: #ffffff;
   --card-border: #e0e0e0;
-  --shadow: 0 3px 50px rgba(0, 0.02, 0, 0.05);
+  --shadow: 0 3px 50px rgba(0, 0, 0, 0.05);
 }
 
 body {
@@ -38,7 +38,7 @@ body {
 a {
   color: var(--accent);
   text-decoration: none;
-  transition: color 0.4s;
+  transition: color 0.5s;
 }
 a:hover {
   color: var(--btn-hover);
