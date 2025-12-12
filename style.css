@@ -107,12 +107,19 @@ header nav a:hover {
    Section Headings
    ============================== */
 section h2 {
-  font-size: 2rem;
+  font-size: 2.1rem;
+  font-weight: 600;
   color: var(--heading);
-  margin-bottom: 1rem;
-  border-left: 4px solid var(--heading);
-  padding-left: 12px;
+  margin-bottom: 1.2rem;
+  border-left: 5px solid var(--heading);
+  padding-left: 14px;
+  line-height: 1.3;
+  letter-spacing: 0.5px;
+  background: linear-gradient(to right, var(--heading), transparent 60%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: currentColor;
 }
+
 
 /* ==============================
    Content Lists
