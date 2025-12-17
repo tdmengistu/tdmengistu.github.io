@@ -1,8 +1,6 @@
  /* ===============================
-   SYSTEM THEME COLORS
+   DARK MODE
 =============================== */
-
-/* Dark mode (auto via system preference) */
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #0f0f11;
@@ -19,7 +17,9 @@
   }
 }
 
-/* Light mode (default) */
+/* ===============================
+   LIGHT MODE (DEFAULT)
+=============================== */
 :root {
   --bg: linear-gradient(to bottom, #f4f6f8, #ffffff);
   --surface: #ffffff;
@@ -35,7 +35,7 @@
 }
 
 /* ===============================
-   GLOBAL RESET
+   GLOBAL STYLES
 =============================== */
 html {
   scroll-behavior: smooth;
@@ -63,7 +63,7 @@ a:hover {
 }
 
 /* ===============================
-   NAVIGATION (Horizontal + Responsive)
+   NAVIGATION
 =============================== */
 .main-nav {
   background: var(--nav-bg);
@@ -103,7 +103,7 @@ header {
   background: var(--header-bg);
   color: white;
   text-align: center;
-  padding: 4rem 2rem;
+  padding: 3rem 2rem; /* Reduced height */
 }
 header h1 {
   font-size: 2.2rem;
@@ -116,7 +116,7 @@ header p {
 }
 
 /* ===============================
-   SECTION TITLES
+   SECTION HEADINGS
 =============================== */
 section h2 {
   font-size: 1.7rem;
@@ -132,7 +132,7 @@ section h2 {
 }
 
 /* ===============================
-   LIST STYLES
+   LIST STYLING
 =============================== */
 ul {
   padding-left: 1.6rem;
@@ -144,8 +144,20 @@ li {
   margin-bottom: 0.4rem;
 }
 
+/* Publications & Conferences */
+.publications-list li,
+.conference-list li {
+  margin-bottom: 1.0rem;
+  font-size: 0.96rem;
+  color: var(--text);
+}
+.publications-list a {
+  color: var(--accent);
+  font-weight: bold;
+}
+
 /* ===============================
-   BADGES + BUTTONS
+   BADGES & BUTTONS
 =============================== */
 .badges {
   display: flex;
@@ -180,7 +192,7 @@ footer {
 }
 
 /* ===============================
-   MOBILE NAV ADJUSTMENTS
+   MOBILE OPTIMIZATION
 =============================== */
 @media (max-width: 600px) {
   .main-nav ul {
@@ -190,7 +202,7 @@ footer {
   }
 
   header h1 {
-    font-size: 2.2rem;
+    font-size: 1.9rem;
   }
 
   header p {
@@ -198,6 +210,7 @@ footer {
   }
 
   section h2 {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
   }
 }
+
