@@ -156,16 +156,18 @@ li {
   font-weight: bold;
 }
 
-.conference-list {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1.2rem 2rem;
+.presentation-column {
+  width: 100%;
+  display: block;
 }
-@media (max-width: 768px) {
-  .conference-list {
-    grid-template-columns: 1fr;
-  }
+
+.conference-list li {
+  margin-bottom: 1.2rem;
+  line-height: 1.7;
+  font-size: 1rem;
+  color: var(--text);
 }
+
 
 
 
