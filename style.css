@@ -21,9 +21,9 @@
    LIGHT MODE (DEFAULT)
 =============================== */
 :root {
-  --bg: linear-gradient(to bottom, #f4f6f8, #ffffff);
+  --bg: #f5f7fa;
   --surface: #ffffff;
-  --text: #1f2933;
+  --text: #000000; /* ✅ PURE BLACK TEXT */
   --accent: #0030f3;
   --heading: #003366;
   --header-bg: linear-gradient(135deg, #001cf0, #00dfd2);
@@ -83,17 +83,17 @@ a:hover {
 .main-nav a {
   font-size: 1rem;
   font-weight: 500;
-  color: #333;
+  color: #000; /* Force black for nav items */
   padding-bottom: 0.3rem;
   border-bottom: 2px solid transparent;
 }
 .main-nav a:hover {
-  border-bottom-color: #333;
+  border-bottom-color: #000;
 }
 .main-nav a.active {
   font-weight: 600;
-  color: #1a2b2f;
-  border-bottom: 2px solid #1a2b2f;
+  color: #000;
+  border-bottom: 2px solid #000;
 }
 
 /* ===============================
@@ -103,7 +103,7 @@ header {
   background: var(--header-bg);
   color: white;
   text-align: center;
-  padding: 3rem 2rem; /* Reduced height */
+  padding: 2.5rem 2rem; /* Reduced height */
 }
 header h1 {
   font-size: 2.2rem;
