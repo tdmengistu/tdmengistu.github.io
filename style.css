@@ -156,6 +156,19 @@ li {
   font-weight: bold;
 }
 
+.conference-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem 2rem;
+}
+@media (max-width: 768px) {
+  .conference-list {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+
 /* ===============================
    BADGES & BUTTONS
 =============================== */
