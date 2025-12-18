@@ -83,9 +83,9 @@ Ware, H. H., **Mengistu, T. D.**, Yifru, B. A., Chang, S. W., Chung, I. M. (2023
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/tdmengistu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <!--a href="https://github.com/tdmengistu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /-->
+
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tdmengistu21">
