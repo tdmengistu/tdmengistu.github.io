@@ -21,12 +21,6 @@ Hydrologist, Data Scientist and Machine Learning researcher integrating physics-
 - Hydro-climatic data analytics  
 - River–aquifer interaction
 
-## Education 
-- PhD, Water Resources Engineering
-- MSc, Data Science  
-- MSc, Hydraulic Engineering  
-- BSc, Water Resources Engineering  
- 
 ---
 
 ## Publications (SCIE)
