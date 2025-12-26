@@ -17,14 +17,13 @@
   }
 }
 
-
 /* ===============================
    LIGHT MODE (DEFAULT)
 =============================== */
 :root {
   --bg: #f5f7fa;
   --surface: #ffffff;
-  --text: #000000; /* ✅ PURE BLACK TEXT */
+  --text: #000000; /* pure black text for light mode */
   --accent: #0030f3;
   --heading: #003366;
   --header-bg: linear-gradient(135deg, #001cf0, #00dfd2);
@@ -42,25 +41,39 @@ html {
   scroll-behavior: smooth;
   scroll-padding-top: 100px;
 }
+
 body {
   margin: 0;
-  font-family: 'Fira Code', monospace;
+  font-family: 'Fira Code', monospace, monospace;
   background: var(--bg);
   color: var(--text);
   line-height: 1.65;
 }
+
 a {
   color: var(--accent);
   text-decoration: none;
   transition: color 0.2s ease;
 }
+
 a:hover {
   color: var(--btn-hover);
 }
+
 .container {
   max-width: 1200px;
   margin: auto;
   padding: 2rem 1.5rem;
+}
+
+/* ===============================
+   LOGO IMAGE
+=============================== */
+.site-logo {
+  max-width: 140px;
+  height: auto;
+  display: block;
+  margin: 0 auto 1.2rem auto;
 }
 
 /* ===============================
@@ -84,7 +97,7 @@ a:hover {
 .main-nav a {
   font-size: 1rem;
   font-weight: 500;
-  color: #000; /* Force black for nav items */
+  color: #000; /* force black text in nav for clarity */
   padding-bottom: 0.3rem;
   border-bottom: 2px solid transparent;
 }
@@ -104,7 +117,7 @@ header {
   background: var(--header-bg);
   color: white;
   text-align: center;
-  padding: 2.5rem 2rem; /* Reduced height */
+  padding: 2.5rem 2rem;
 }
 header h1 {
   font-size: 2.2rem;
@@ -133,7 +146,7 @@ section h2 {
 }
 
 /* ===============================
-   LIST STYLING
+   LIST STYLING (GENERAL)
 =============================== */
 ul {
   padding-left: 1.6rem;
@@ -143,34 +156,30 @@ ul {
 }
 li {
   margin-bottom: 0.4rem;
+  color: var(--text);
+  font-size: 0.98rem;
 }
 
-/* Publications & Conferences */
+/* ===============================
+   PUBLICATIONS & CONFERENCES SPECIFIC
+=============================== */
 .publications-list li,
 .conference-list li {
-  margin-bottom: 1.0rem;
-  font-size: 0.96rem;
+  margin-bottom: 1.2rem;
+  font-size: 1rem;
   color: var(--text);
 }
+
 .publications-list a {
   color: var(--accent);
   font-weight: bold;
 }
 
+/* single column for conference presentations */
 .presentation-column {
   width: 100%;
   display: block;
 }
-
-.conference-list li {
-  margin-bottom: 1.2rem;
-  line-height: 1.7;
-  font-size: 1rem;
-  color: var(--text);
-}
-
-
-
 
 /* ===============================
    BADGES & BUTTONS
@@ -227,6 +236,10 @@ footer {
 
   section h2 {
     font-size: 1.5rem;
+  }
+
+  .site-logo {
+    max-width: 120px;
   }
 }
 
