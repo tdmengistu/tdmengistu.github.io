@@ -1,7 +1,7 @@
 Hydrologist, Data Scientist and Machine Learning researcher integrating physics-guided hydrological models with probabilistic deep learning, Bayesian inference, and large-scale hydroclimate data analytics to build resilient predictive systems.
 
 ---
- <p align="center" style="display:flex;justify-content:center;gap:18px;flex-wrap:nowrap;font-size:16px;">
+ <!--p align="center" style="display:flex;justify-content:center;gap:18px;flex-wrap:nowrap;font-size:16px;">
 
   <a href="#research-interests">Research Interests</a> |
   <a href="#education">Education</a> |
@@ -10,7 +10,7 @@ Hydrologist, Data Scientist and Machine Learning researcher integrating physics-
   <a href="#technical-skills">Technical Skills</a> |
   <a href="#awards">Awards</a> |
   <a href="#publications-scie">Publications</a> |
-  <a href="#connect">More</a>
+  <a href="#connect">More</a-->
 
 </p>
 
