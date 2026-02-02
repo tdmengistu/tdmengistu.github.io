@@ -1,39 +1,7 @@
-Hydrologist, Data Scientist and Machine Learning researcher integrating physics-guided hydrological models with probabilistic deep learning, Bayesian inference, and large-scale hydroclimate data analytics to build resilient predictive systems.
+Hydrology | Environmental Data Science | Machine Learning | Hydrological Model
 
 ---
- <!--p align="center" style="display:flex;justify-content:center;gap:18px;flex-wrap:nowrap;font-size:16px;">
-
-  <a href="#research-interests">Research Interests</a> |
-  <a href="#education">Education</a> |
-  <a href="#certifications">Certifications</a> |
-  <a href="#experiences">Experiences</a> |
-  <a href="#technical-skills">Technical Skills</a> |
-  <a href="#awards">Awards</a> |
-  <a href="#publications-scie">Publications</a> |
-  <a href="#connect">More</a-->
-
-</p>
-
-
-## Research Interests 
-- Bayesian hydrology  
-- Explainable AI (XAI) for environmental systems  
-- Hydro-climatic data analytics  
-- River–aquifer interaction
-
----
-
  
-## 🧠 Methodological & Technical Expertise
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="44"/>
-</p>
-
-
 ## Connect
 
 <p align="center" style="display: flex; justify-content: center; gap: 8px; flex-wrap: nowrap;">
@@ -45,10 +13,6 @@ Hydrologist, Data Scientist and Machine Learning researcher integrating physics-
   <a href="https://tdmengistu.github.io">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
-
-  <!-- GitHub -->
-  <!--a href="https://github.com/tdmengistu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /-->
 
 
   <!-- LinkedIn -->
