@@ -1,6 +1,28 @@
  /* ===============================
-   DARK MODE
+   THEME VARIABLES
 =============================== */
+
+/* LIGHT MODE (DEFAULT) */
+:root {
+  --bg: #f5f7fa;
+  --surface: #ffffff;
+  --text: #000000;
+  --accent: #0030f3;
+  --heading: #003366;
+  --header-bg: linear-gradient(135deg, #001cf0, #00dfd2);
+  --nav-bg: #f8f5ef;
+  --btn-bg: #003cf0;
+  --btn-hover: #1024b3;
+  --border: #e0e0e0;
+  --shadow: 0 4px 28px rgba(0, 0, 0, 0.06);
+
+  /* layout */
+  --container-max: 1200px;
+  --container-pad-x: 1.5rem;
+  --container-pad-y: 2rem;
+}
+
+/* DARK MODE */
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #0f0f11;
@@ -18,32 +40,24 @@
 }
 
 /* ===============================
-   LIGHT MODE (DEFAULT)
+   GLOBAL / RESET
 =============================== */
-:root {
-  --bg: #f5f7fa;
-  --surface: #ffffff;
-  --text: #000000; /* pure black text for light mode */
-  --accent: #0030f3;
-  --heading: #003366;
-  --header-bg: linear-gradient(135deg, #001cf0, #00dfd2);
-  --nav-bg: #f8f5ef;
-  --btn-bg: #003cf0;
-  --btn-hover: #1024b3;
-  --border: #e0e0e0;
-  --shadow: 0 4px 28px rgba(0, 0, 0, 0.06);
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
-/* ===============================
-   GLOBAL STYLES
-=============================== */
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 100px;
+  width: 100%;
 }
 
 body {
   margin: 0;
+  width: 100%;
+  min-height: 100vh;
   font-family: 'Fira Code', monospace, monospace;
   background: var(--bg);
   color: var(--text);
@@ -60,10 +74,19 @@ a:hover {
   color: var(--btn-hover);
 }
 
+/* ===============================
+   FULL-WIDTH SECTION + INNER CONTAINER
+   (This is what makes the page extend full width)
+=============================== */
+.section {
+  width: 100%;
+}
+
 .container {
-  max-width: 1200px;
-  margin: auto;
-  padding: 2rem 1.5rem;
+  width: 100%;
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding: var(--container-pad-y) var(--container-pad-x);
 }
 
 /* ===============================
@@ -80,10 +103,15 @@ a:hover {
    NAVIGATION
 =============================== */
 .main-nav {
+  width: 100%;
   background: var(--nav-bg);
   border-bottom: 1px solid var(--border);
   box-shadow: var(--shadow);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
+
 .main-nav ul {
   list-style: none;
   margin: 0;
@@ -94,39 +122,50 @@ a:hover {
   gap: 2rem;
   flex-wrap: wrap;
 }
+
 .main-nav a {
   font-size: 1rem;
   font-weight: 500;
-  color: #000; /* force black text in nav for clarity */
+  color: var(--text);
   padding-bottom: 0.3rem;
   border-bottom: 2px solid transparent;
 }
+
 .main-nav a:hover {
-  border-bottom-color: #000;
+  border-bottom-color: var(--text);
 }
+
 .main-nav a.active {
   font-weight: 600;
-  color: #000;
-  border-bottom: 2px solid #000;
+  color: var(--text);
+  border-bottom: 2px solid var(--text);
 }
 
 /* ===============================
    HEADER
 =============================== */
 header {
+  width: 100%;
   background: var(--header-bg);
   color: white;
   text-align: center;
-  padding: 2.5rem 2rem;
+  padding: 2.5rem 0; /* padding handled by .container inside */
 }
+
+header .container {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
 header h1 {
   font-size: 2.2rem;
-  margin-bottom: 0.25rem;
+  margin: 0 0 0.25rem 0;
 }
+
 header p {
   font-size: 1.15rem;
   max-width: 720px;
-  margin: 0 auto;
+  margin: 0.25rem auto 0 auto;
 }
 
 /* ===============================
@@ -136,17 +175,18 @@ section h2 {
   font-size: 1.7rem;
   font-weight: 600;
   color: var(--heading);
-  margin-bottom: 1.3rem;
+  margin: 0 0 1.3rem 0;
   padding-left: 14px;
   border-left: 5px solid var(--heading);
   line-height: 1.3;
+
   background: linear-gradient(to right, var(--heading), transparent 70%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: currentColor;
 }
 
 /* ===============================
-   LIST STYLING (GENERAL)
+   GENERAL LIST STYLING
 =============================== */
 ul {
   padding-left: 1.6rem;
@@ -154,6 +194,7 @@ ul {
   line-height: 1.7;
   margin-top: 0.5rem;
 }
+
 li {
   margin-bottom: 0.4rem;
   color: var(--text);
@@ -161,8 +202,14 @@ li {
 }
 
 /* ===============================
-   PUBLICATIONS & CONFERENCES SPECIFIC
+   PUBLICATIONS & CONFERENCES
 =============================== */
+.publications-list,
+.conference-list {
+  padding-left: 1.6rem; /* keeps numbering aligned nicely */
+  margin: 0.5rem 0 0 0;
+}
+
 .publications-list li,
 .conference-list li {
   margin-bottom: 1.2rem;
@@ -172,10 +219,12 @@ li {
 
 .publications-list a {
   color: var(--accent);
-  font-weight: bold;
+  font-weight: 700;
 }
 
-/* single column for conference presentations */
+/* ===============================
+   PRESENTATIONS COLUMN
+=============================== */
 .presentation-column {
   width: 100%;
   display: block;
@@ -191,6 +240,7 @@ li {
   justify-content: center;
   margin-top: 1.5rem;
 }
+
 .btn {
   display: inline-block;
   margin-top: 1.4rem;
@@ -201,6 +251,7 @@ li {
   font-weight: 600;
   transition: background 0.25s ease;
 }
+
 .btn:hover {
   background: var(--btn-hover);
 }
@@ -209,6 +260,7 @@ li {
    FOOTER
 =============================== */
 footer {
+  width: 100%;
   text-align: center;
   padding: 2rem;
   background: #1a1a1a;
@@ -220,10 +272,15 @@ footer {
    MOBILE OPTIMIZATION
 =============================== */
 @media (max-width: 600px) {
+  :root {
+    --container-pad-x: 1rem;
+    --container-pad-y: 1.5rem;
+  }
+
   .main-nav ul {
     flex-direction: column;
     gap: 1rem;
-    padding: 1.5rem;
+    padding: 1.25rem;
   }
 
   header h1 {
