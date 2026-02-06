@@ -2,7 +2,7 @@ Hydrology | Environmental Data Science | Machine Learning | Hydrological Model
 
 ---
  
-## Connect
+## Research Profiles
 
 <p align="center" style="display: flex; justify-content: center; gap: 8px; flex-wrap: nowrap;">
   <!-- Email -->
