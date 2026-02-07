@@ -201,6 +201,30 @@ li {
   font-size: 0.98rem;
 }
 
+.education-list {
+  list-style: none;   /* removes bullets */
+  padding-left: 0;
+}
+
+.education-list li {
+  margin-bottom: 15px;
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.education-list i {
+  color: #2c3e50;
+  font-size: 18px;
+  margin-top: 4px;
+}
+
+.institution {
+  color: #555;
+  font-size: 0.95em;
+}
+
+
 /* ===============================
    PUBLICATIONS & CONFERENCES
 =============================== */
