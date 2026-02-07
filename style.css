@@ -220,7 +220,7 @@ li {
 }
 
 .education-list i {
-  color: var(--heading);
+  color: #555;   /* neutral gray */
   font-size: 18px;
   margin-top: 5px;
   min-width: 22px;
