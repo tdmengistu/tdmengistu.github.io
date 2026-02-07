@@ -220,7 +220,7 @@ li {
 }
 
 .education-list i {
-  color: var(--accent);
+  color: var(--heading);
   font-size: 18px;
   margin-top: 5px;
   min-width: 22px;
