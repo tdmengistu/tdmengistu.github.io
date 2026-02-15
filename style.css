@@ -1,8 +1,8 @@
- /* ===============================
+/* ===============================
    THEME VARIABLES
 =============================== */
 
-/* LIGHT MODE (DEFAULT) */
+/* LIGHT MODE */
 :root {
   --bg: #f5f7fa;
   --surface: #ffffff;
@@ -16,7 +16,6 @@
   --border: #e0e0e0;
   --shadow: 0 4px 28px rgba(0, 0, 0, 0.06);
 
-  /* layout */
   --container-max: 1200px;
   --container-pad-x: 1.5rem;
   --container-pad-y: 2rem;
@@ -40,8 +39,9 @@
 }
 
 /* ===============================
-   GLOBAL / RESET
+   GLOBAL RESET
 =============================== */
+
 *,
 *::before,
 *::after {
@@ -51,18 +51,20 @@
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 100px;
-  width: 100%;
 }
 
 body {
   margin: 0;
-  width: 100%;
   min-height: 100vh;
-  font-family: 'Fira Code', monospace, monospace;
+  font-family: "Fira Code", monospace;
   background: var(--bg);
   color: var(--text);
   line-height: 1.65;
 }
+
+/* ===============================
+   LINKS
+=============================== */
 
 a {
   color: var(--accent);
@@ -75,9 +77,9 @@ a:hover {
 }
 
 /* ===============================
-   FULL-WIDTH SECTION + INNER CONTAINER
-   (This is what makes the page extend full width)
+   FULL WIDTH STRUCTURE
 =============================== */
+
 .section {
   width: 100%;
 }
@@ -90,18 +92,20 @@ a:hover {
 }
 
 /* ===============================
-   LOGO IMAGE
+   LOGO
 =============================== */
+
 .site-logo {
   max-width: 140px;
   height: auto;
   display: block;
-  margin: 0 auto 1.2rem auto;
+  margin: 0 auto 1.2rem;
 }
 
 /* ===============================
    NAVIGATION
 =============================== */
+
 .main-nav {
   width: 100%;
   background: var(--nav-bg);
@@ -118,7 +122,6 @@ a:hover {
   padding: 1rem;
   display: flex;
   justify-content: center;
-  align-items: center;
   gap: 2rem;
   flex-wrap: wrap;
 }
@@ -127,91 +130,85 @@ a:hover {
   font-size: 1rem;
   font-weight: 500;
   color: var(--text);
-  padding-bottom: 0.3rem;
   border-bottom: 2px solid transparent;
+  padding-bottom: 0.3rem;
 }
 
-.main-nav a:hover {
-  border-bottom-color: var(--text);
-}
-
+.main-nav a:hover,
 .main-nav a.active {
+  border-bottom-color: var(--text);
   font-weight: 600;
-  color: var(--text);
-  border-bottom: 2px solid var(--text);
 }
 
 /* ===============================
    HEADER
 =============================== */
+
 header {
   width: 100%;
   background: var(--header-bg);
   color: white;
   text-align: center;
-  padding: 2.5rem 0; /* padding handled by .container inside */
+  padding: 2.5rem 0;
 }
 
 header .container {
-  padding-top: 0;
-  padding-bottom: 0;
+  padding: 0;
 }
 
 header h1 {
   font-size: 2.2rem;
-  margin: 0 0 0.25rem 0;
+  margin: 0 0 0.25rem;
 }
 
 header p {
   font-size: 1.15rem;
   max-width: 720px;
-  margin: 0.25rem auto 0 auto;
+  margin: 0.25rem auto 0;
 }
 
 /* ===============================
    SECTION HEADINGS
 =============================== */
+
 section h2 {
   font-size: 1.7rem;
   font-weight: 600;
   color: var(--heading);
-  margin: 0 0 1.3rem 0;
+  margin-bottom: 1.3rem;
   padding-left: 14px;
   border-left: 5px solid var(--heading);
   line-height: 1.3;
-
-  background: linear-gradient(to right, var(--heading), transparent 70%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: currentColor;
 }
 
 /* ===============================
-   GENERAL LIST STYLING
+   GENERIC LISTS
 =============================== */
+
 ul {
   padding-left: 1.6rem;
-  list-style-type: square;
-  line-height: 1.7;
   margin-top: 0.5rem;
+  list-style-type: square;
 }
 
 li {
   margin-bottom: 0.4rem;
-  color: var(--text);
   font-size: 0.98rem;
 }
 
 /* ===============================
-   EDUCATION LIST (ICON STYLE)
+   ICON LISTS (Education/Awards)
 =============================== */
 
-.education-list {
-  list-style: none;       /* removes bullets */
-  padding-left: 0;
+.education-list,
+.awards-list {
+  list-style: none;
+  padding: 0;
   margin-top: 0.5rem;
 }
 
-.education-list li {
+.education-list li,
+.awards-list li {
   display: flex;
   align-items: flex-start;
   gap: 12px;
@@ -219,46 +216,38 @@ li {
   font-size: 1rem;
 }
 
-.education-list i {
-  color: #555;   /* neutral gray */
+.education-list i,
+.awards-list i {
+  color: var(--heading);
   font-size: 18px;
   margin-top: 5px;
   min-width: 22px;
 }
 
-.education-list strong {
+.education-list strong,
+.awards-list strong {
   color: var(--heading);
 }
 
 .institution {
-  color: var(--text);
   opacity: 0.85;
   font-size: 0.95rem;
 }
 
-.awards-list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-
-
-
 /* ===============================
-   PUBLICATIONS & CONFERENCES
+   PUBLICATIONS / CONFERENCES
 =============================== */
+
 .publications-list,
 .conference-list {
-  padding-left: 1.6rem; /* keeps numbering aligned nicely */
-  margin: 0.5rem 0 0 0;
+  padding-left: 1.6rem;
+  margin-top: 0.5rem;
 }
 
 .publications-list li,
 .conference-list li {
   margin-bottom: 1.2rem;
   font-size: 1rem;
-  color: var(--text);
 }
 
 .publications-list a {
@@ -267,16 +256,17 @@ li {
 }
 
 /* ===============================
-   PRESENTATIONS COLUMN
+   PRESENTATIONS
 =============================== */
+
 .presentation-column {
   width: 100%;
-  display: block;
 }
 
 /* ===============================
-   BADGES & BUTTONS
+   BADGES / BUTTONS
 =============================== */
+
 .badges {
   display: flex;
   flex-wrap: wrap;
@@ -303,19 +293,21 @@ li {
 /* ===============================
    FOOTER
 =============================== */
+
 footer {
   width: 100%;
   text-align: center;
   padding: 2rem;
   background: #1a1a1a;
   color: white;
-  font-size: 1rem;
 }
 
 /* ===============================
-   MOBILE OPTIMIZATION
+   MOBILE
 =============================== */
+
 @media (max-width: 600px) {
+
   :root {
     --container-pad-x: 1rem;
     --container-pad-y: 1.5rem;
@@ -327,17 +319,9 @@ footer {
     padding: 1.25rem;
   }
 
-  header h1 {
-    font-size: 1.9rem;
-  }
-
-  header p {
-    font-size: 1rem;
-  }
-
-  section h2 {
-    font-size: 1.5rem;
-  }
+  header h1 { font-size: 1.9rem; }
+  header p { font-size: 1rem; }
+  section h2 { font-size: 1.5rem; }
 
   .site-logo {
     max-width: 120px;
