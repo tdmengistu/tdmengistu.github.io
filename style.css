@@ -76,7 +76,9 @@ a:hover {
 }
 
 /* ===============================
-   FULL WIDTH STRUCTURE
+ 
+
+FULL WIDTH STRUCTURE
 =============================== */
 
 .section {
@@ -137,6 +139,13 @@ a:hover {
 .main-nav a.active {
   border-bottom-color: var(--text);
   font-weight: 600;
+}
+
+
+.role-line {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
 }
 
 /* ===============================
