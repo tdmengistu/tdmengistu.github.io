@@ -12,7 +12,7 @@ nav_order: 3
   <div class="academic-timeline-row">
     <div class="academic-timeline-date">Feb. 2026</div>
     <div class="academic-timeline-content">
-      <span class="academic-timeline-title">Grand Prize for Academic Excellence</span>
+      <span class="academic-timeline-title">Grand Prize</span>
       <span class="academic-timeline-meta">Korea Institute of Civil Engineering &amp; Building Technology · Goyang, South Korea</span>
     </div>
   </div>
