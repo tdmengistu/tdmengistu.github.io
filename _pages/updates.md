@@ -47,14 +47,14 @@ nav_order: 4
   <div class="academic-timeline-row">
     <div class="academic-timeline-date">Dec. 2024</div>
     <div class="academic-timeline-content">
-      Presented research on <strong>“Enhancing Groundwater Vulnerability Assessment Using an Integrated Modeling Framework”</strong> at the <strong>AGU Annual Meeting 2024</strong> in Washington, D.C., USA.
+      Presented research at the <strong>AGU Annual Meeting 2024</strong> in Washington, D.C., USA.
     </div>
   </div>
 
   <div class="academic-timeline-row">
     <div class="academic-timeline-date">Jul. 2024</div>
     <div class="academic-timeline-content">
-      Presented research on <strong>“Assessing Watershed Hydrological Responses to River–Aquifer Interactions”</strong> at the <strong>International SWAT Conference 2024</strong> in Strasbourg, France.
+      Presented research at the <strong>International SWAT Conference 2024</strong> in Strasbourg, France.
     </div>
   </div>
 
@@ -68,7 +68,7 @@ nav_order: 4
   <div class="academic-timeline-row">
     <div class="academic-timeline-date">Jun. 2024</div>
     <div class="academic-timeline-content">
-      Presented research on <strong>“Assessing Watershed System Response to Groundwater Sustainability”</strong> and <strong>“Assessing the Performance of DWAT and SWAT Models for Predicting Hydrologic Balances”</strong> at the <strong>Asia Oceania Geosciences Society (AOGS) 2024 Annual Meeting</strong> in Pyeongchang, Republic of Korea.
+      Presented two research works at the <strong>Asia Oceania Geosciences Society (AOGS) 2024 Annual Meeting</strong> in Pyeongchang, Republic of Korea.
     </div>
   </div>
 
