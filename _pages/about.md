@@ -10,7 +10,7 @@ profile:
 news: false
 latest_posts: false
 selected_papers: false
-social: true
+social: false
 ---
 
 I am a Postdoctoral Researcher in the Department of Environmental Science and Ecological Engineering at **Korea University** in Seoul, South Korea.
