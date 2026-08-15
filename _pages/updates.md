@@ -26,7 +26,7 @@ nav_order: 4
   <div class="academic-timeline-row">
     <div class="academic-timeline-date">Dec. 2025</div>
     <div class="academic-timeline-content">
-      Received the <strong>Research Excellence Award</strong> from the University of Science and Technology (UST).
+      Received the <strong>Research Excellence Award</strong> from the University of Science &amp; Technology (UST).
     </div>
   </div>
 
