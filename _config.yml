@@ -1,0 +1,166 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+
+title: Tarekegn Dejen Mengistu
+first_name: Tarekegn
+middle_name: Dejen
+last_name: Mengistu
+email: taredejum6@gmail.com
+description: >
+  Academic homepage of Tarekegn Dejen Mengistu, Postdoctoral Researcher in the
+  Department of Environmental Science and Ecological Engineering at Korea University. Research in trustworthy scientific
+  AI, process-informed machine learning, hydrology, water quality, groundwater,
+  Bayesian uncertainty, explainable AI, geospatial AI, and climate-resilient water systems.
+footer_text: ""
+keywords: scientific AI, trustworthy AI, process-informed machine learning, hydrology, water quality, groundwater, environmental modeling, Bayesian inference, uncertainty quantification, explainable AI, causal discovery, transfer learning, geospatial AI, climate resilience, water security
+
+lang: en
+icon: 🌊
+
+url: https://tdmengistu.github.io
+baseurl: ""
+last_updated: false
+impressum_path:
+
+# -----------------------------------------------------------------------------
+# Theme
+# -----------------------------------------------------------------------------
+
+highlight_theme_light: github
+highlight_theme_dark: native
+navbar_fixed: true
+footer_fixed: false
+max_width: 900px
+serve_og_meta: true
+serve_schema_org: true
+og_image:
+rss_icon: false
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+github_username:
+gitlab_username:
+twitter_username:
+mastodon_username:
+linkedin_username: tdmengistu21
+telegram_username:
+scholar_userid: cIRXJbgAAAAJ&hl=en
+semanticscholar_id:
+whatsapp_number:
+orcid_id: 0000-0001-9812-3460
+medium_username:
+quora_username:
+publons_id:
+lattes_id:
+osf_id:
+research_gate_profile: Tarekegn-Mengistu
+scopus_id:
+blogger_url:
+work_url:
+website_url:
+keybase_username:
+wikidata_id:
+wikipedia_id:
+dblp_url:
+stackoverflow_id:
+kaggle_id:
+lastfm_id:
+spotify_id:
+pinterest_id:
+unsplash_id:
+instagram_id:
+facebook_id:
+youtube_id:
+discord_id:
+zotero_username:
+
+contact_note: ""
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
+
+include: ['_pages']
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+keep_files:
+  - CNAME
+  - .nojekyll
+  - .git
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# -----------------------------------------------------------------------------
+# Optional features
+# -----------------------------------------------------------------------------
+
+enable_google_analytics: false
+enable_cronitor_analytics: false
+enable_google_verification: false
+enable_bing_verification: false
+enable_masonry: false
+enable_math: false
+enable_tooltips: false
+enable_darkmode: true
+enable_navbar_social: false
+enable_project_categories: false
+enable_medium_zoom: false
+enable_progressbar: true
+
+badges:
+  altmetric_badge: false
+  dimensions_badge: false
+
+# -----------------------------------------------------------------------------
+# Library versions
+# -----------------------------------------------------------------------------
+
+academicons:
+  version: "1.9.1"
+  integrity: "sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg="
+bootstrap:
+  version: "4.6.1"
+  integrity:
+    css: "sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY="
+    js: "sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8="
+bootstrap-table:
+  version: "1.21.4"
+fontawesome:
+  version: "6.4.0"
+  integrity: "sha256-HtsXJanqjKTc8vVQjO4YMhiqFoXkfBsjBWcX91T1jr8="
+jquery:
+  version: "3.6.0"
+  integrity: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+mathjax:
+  version: "3.2.0"
+masonry:
+  version: "4.2.2"
+  integrity: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
+mdb:
+  version: "4.20.0"
+  integrity:
+    css: "sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw="
+    js: "sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA="
+medium_zoom:
+  version: "1.0.8"
+  integrity: "sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8="
