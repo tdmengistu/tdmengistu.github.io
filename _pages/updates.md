@@ -12,7 +12,7 @@ nav_order: 4
   <div class="academic-timeline-row">
     <div class="academic-timeline-date">Mar. 2026</div>
     <div class="academic-timeline-content">
-      Joined <strong>Korea University</strong> as a <strong>Postdoctoral Researcher</strong> in the Department of Environmental Science and Ecological Engineering.
+      Joined <strong>Korea University</strong> as a <strong>Postdoctoral Researcher</strong>.
     </div>
   </div>
 
