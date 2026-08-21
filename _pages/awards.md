@@ -50,7 +50,7 @@ nav_order: 3
   </div>
 
   <div class="academic-timeline-row">
-    <div class="academic-timeline-date">Mar. 2021~</div>
+    <div class="academic-timeline-date">Mar. 2021 ~</div>
     <div class="academic-timeline-content">
       <span class="academic-timeline-title">UST Doctoral Scholarship</span>
       <span class="academic-timeline-meta">University of Science and Technology · Daejeon, South Korea</span>
