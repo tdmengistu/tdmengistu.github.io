@@ -15,7 +15,6 @@ social: false
 
 I am a **Postdoctoral Researcher** in the Department of Environmental Science & Ecological Engineering at **Korea University**, Seoul, South Korea.
 
-My research interests encompass Artificial Intelligence (AI), machine/deep learning, eXplainable AI (XAI), and hybrid environmental modeling to understand and predict hydro-environmental processes for sustainable water management.
-
 Prior to this, I received my Ph.D. in Environmental & Water Resources Engineering from the **University of Science & Technology (UST)**, Daejeon, South Korea, while concurrently serving as a **UST Student Research Fellow** at the **Korea Institute of Civil Engineering & Building Technology (KICT)**. I also received both my MSc. and BSc. in Hydraulic & Water Resources Engineering from **Jimma University**, Ethiopia.
 
+My research interests encompass Artificial Intelligence (AI), machine/deep learning, eXplainable AI (XAI), and hybrid environmental modeling to understand and predict hydro-environmental processes for sustainable water management.
