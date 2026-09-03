@@ -20,7 +20,7 @@ nav_order: 3
   <div class="academic-timeline-row">
     <div class="academic-timeline-date">Dec. 2025</div>
     <div class="academic-timeline-content">
-      <span class="academic-timeline-title">Research Excellence Award</span>
+      <span class="academic-timeline-title">Excellence Award</span>
       <span class="academic-timeline-meta">University of Science and Technology · Daejeon, South Korea</span>
     </div>
   </div>
