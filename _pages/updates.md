@@ -19,16 +19,23 @@ nav_order: 4
   <div class="academic-timeline-row">
     <div class="academic-timeline-date">Feb. 2026</div>
     <div class="academic-timeline-content">
-      Received <strong>Grand Prize for my research & academic excellence</strong> from the Korea Institute of Civil Engineering &amp; Building Technology (KICT).
+      Received <strong>Grand Prize for my research & academic excellence</strong> from the Korea Institute of Civil Engineering &amp; Building Technology.
     </div>
   </div>
 
   <div class="academic-timeline-row">
     <div class="academic-timeline-date">Dec. 2025</div>
     <div class="academic-timeline-content">
-      Received the <strong> UST Research Paper (Excellence) Award</strong> from the University of Science &amp; Technology (UST).
+      Received the <strong> UST Research Paper (Excellence) Award</strong> from the University of Science &amp; Technology.
     </div>
   </div>
+
+ <div class="academic-timeline-row">
+  <div class="academic-timeline-date">Nov. 2025</div>
+  <div class="academic-timeline-content">
+    Successfully defended my <strong>Doctoral Dissertation</strong>. Sincere thanks to my committee members!
+  </div>
+</div>
 
   <div class="academic-timeline-row">
     <div class="academic-timeline-date">Apr. 2025</div>
