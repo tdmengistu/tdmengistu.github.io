@@ -61,14 +61,14 @@ nav_order: 4
   <div class="academic-timeline-row">
     <div class="academic-timeline-date">Jul. 2024</div>
     <div class="academic-timeline-content">
-      Presented research at the <strong>International SWAT Conference 2024</strong> in Strasbourg, France.
+      Received the <strong>Best Poster Award</strong> at the International SWAT Conference 2024.
     </div>
   </div>
 
   <div class="academic-timeline-row">
-    <div class="academic-timeline-date">Jun. 2024</div>
+    <div class="academic-timeline-date">Jul. 2024</div>
     <div class="academic-timeline-content">
-      Received the <strong>Best Poster Award</strong> at the International SWAT Conference 2024.
+      Presented research at the <strong>International SWAT Conference 2024</strong> in Strasbourg, France.
     </div>
   </div>
 
