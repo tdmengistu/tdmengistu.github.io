@@ -17,9 +17,9 @@ I am a **Postdoctoral Researcher** in the Department of Environmental Science & 
 
 Prior to this, I received my Ph.D. in Environmental & Water Resources Engineering from the **University of Science & Technology (UST)**, Daejeon, South Korea, while concurrently serving as a **UST Student Research Fellow** at the **Korea Institute of Civil Engineering & Building Technology (KICT)**. I also received both my MSc. and BSc. in Hydraulic & Water Resources Engineering from **Jimma University**, Ethiopia.
 
-My research lies at the intersection of hydrologic science, environmental modeling, and artificial intelligence (AI), with a focus on AI-driven approaches for understanding and predicting hydro-environmental processes. I integrate scientific machine learning, Bayesian inference, and explainable AI to develop reliable, scientifically interpretable models that support sustainable water and ecosystem management.
+My research lies at the intersection of hydrologic science, environmental modeling, and artificial intelligence (AI), with a focus on AI-driven approaches for understand and predict hydro-environmental processes. I integrate scientific machine learning, Bayesian inference, and explainable AI to develop reliable, uncertainty-aware, and scientifically interpretable models that support sustainable water and ecosystem management.
 
-My current work focuses on interpretable deep transfer and hybrid graph learning for spatiotemporal forecasting to advance predictive understanding and informed decision-making.
+My current work focuses on interpretable deep transfer learning and hybrid graph learning for spatiotemporal forecasting across heterogeneous monitoring networks and data-scarce locations. By bridging process understanding and data-driven prediction, my research aims to improve predictive capability and support climate-resilient water management, environmental monitoring, and informed decision-making.
 
 
 
