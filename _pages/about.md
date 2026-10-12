@@ -22,51 +22,24 @@ My research lies at the intersection of hydrologic science, environmental modeli
 My current work focuses on deep transfer learning and hybrid graph learning for spatiotemporal forecasting across heterogeneous hydrological systems.
 
 
-
-#### **Key AI-driven research Contributions**
-
-#### *Hybrid AI and Physics-Based Hydrological Modeling*
-
-- Developed hybrid modeling frameworks integrating physics-based model with ensemble machine-learning approaches.
-- Investigated hydrological responses to climate change under Shared Socioeconomic Pathways (SSPs).
-- Advanced the assessment of water-resource vulnerability and climate-related hydrological extremes.
-
-#### *Bayesian Deep Learning for Probabilistic inference*
-
-- Developed **Bayesian CNN** approaches for pollution vulnerability assessment.
-- Incorporated predictive uncertainty into vulnerability mapping.
-- Produced probabilistic estimates to support uncertainty-aware groundwater risk assessment.
-
-#### *Explainable AI (XAI) for Environmental Systems*
-
-- Applied **XAI** to investigate environmental predictors and model responses.
-- Evaluated the contributions of hydrogeological variables to machine learning predictions.
-- Improved model transparency and interpretability for environmental decision-making.
-
-#### *Optimized Machine Learning for Water Quality Modeling*
-
-- Benchmarked **six ensemble machine-learning algorithms** for water quality prediction.
-- Applied **Bayesian optimization** to improve hyperparameter selection and Water Quality Index (WQI) prediction.
-- Investigated nonlinear relationships among water-quality variables to support data-driven monitoring and assessment.
-
 ## Key Research Contributions: 
 
 ### 🌦️ Hybrid AI + Physics-Based Modeling
 
 - Developed hybrid modeling frameworks integrating **SWAT (Soil and Water Assessment Tool)** with ensemble machine-learning algorithms.
 - Addressed limitations associated with data scarcity, input uncertainty, and long-term hydrological simulations.
-- Identified complex relationships across **Shared Socioeconomic Pathways (SSPs)** to improve flood and drought predictions in data-scarce regions.
+- Identified complex relationships across Shared Socioeconomic Pathways (SSPs) to improve flood and drought predictions in data-scarce regions.
 
 ### 🔮 Bayesian Deep Learning for Probabilistic Hydrology
 
-- Applied **Bayesian Convolutional Neural Networks (Bayesian CNNs)** to groundwater pollution vulnerability assessment.
+- Applied **Bayesian CNN** to pollution vulnerability assessment.
 - Addressed the limitations of deterministic approaches in representing nonlinear environmental relationships and predictive uncertainty.
-- Generated **probabilistic predictions** with quantified uncertainty to support more reliable groundwater vulnerability mapping and risk assessment.
+- Generated **probabilistic predictions** with quantified uncertainty to support more reliable groundwater vulnerability risk assessment.
 
 ### 🔎 Explainable AI (XAI) in Water Systems
 
 - Integrated **XAI** techniques into deep-learning frameworks for hydrogeological modeling.
-- Addressed the **black-box limitations** of conventional deep-learning models by improving transparency and interpretability.
+- Addressed the **black-box limitations** of conventional deep learning models by improving transparency and interpretability.
 - Investigated the influence of environmental predictors on model outputs to strengthen scientific understanding and confidence in AI-assisted water management.
 
 ### 📊  Optimized Water Quality Modeling
