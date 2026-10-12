@@ -49,7 +49,31 @@ My current work focuses on deep transfer learning and hybrid graph learning for 
 - Applied **Bayesian optimization** to improve hyperparameter selection and Water Quality Index (WQI) prediction.
 - Investigated nonlinear relationships among water-quality variables to support data-driven monitoring and assessment.
 
+## Key Research Contributions: 
 
+### 🌦️ Hybrid AI + Physics-Based Modeling
+
+- Developed hybrid modeling frameworks integrating **SWAT (Soil and Water Assessment Tool)** with ensemble machine-learning algorithms.
+- Addressed limitations associated with data scarcity, input uncertainty, and long-term hydrological simulations.
+- Identified complex relationships across **Shared Socioeconomic Pathways (SSPs)** to improve flood and drought predictions in data-scarce regions.
+
+### 🔮 Bayesian Deep Learning for Probabilistic Hydrology
+
+- Applied **Bayesian Convolutional Neural Networks (Bayesian CNNs)** to groundwater pollution vulnerability assessment.
+- Addressed the limitations of deterministic approaches in representing nonlinear environmental relationships and predictive uncertainty.
+- Generated **probabilistic predictions** with quantified uncertainty to support more reliable groundwater vulnerability mapping and risk assessment.
+
+### 🔎 Explainable AI (XAI) in Water Systems
+
+- Integrated **XAI** techniques into deep-learning frameworks for hydrogeological modeling.
+- Addressed the **black-box limitations** of conventional deep-learning models by improving transparency and interpretability.
+- Investigated the influence of environmental predictors on model outputs to strengthen scientific understanding and confidence in AI-assisted water management.
+
+### 📊  Optimized Water Quality Modeling
+
+- Evaluated and benchmarked **six ensemble machine-learning models** for water quality prediction.
+- Applied **Bayesian optimization** for systematic hyperparameter tuning and improved Water Quality Index (WQI) prediction.
+- Modeled complex, nonlinear relationships among water quality parameters to support accurate, cost-effective water quality assessment.
 
 
 
