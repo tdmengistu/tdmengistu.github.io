@@ -22,8 +22,8 @@ My research lies at the intersection of hydrologic science, environmental modeli
 My current work focuses on deep transfer learning and hybrid graph learning for spatiotemporal forecasting across heterogeneous hydrological systems.
 
 
-## Key Research Contributions: 
-
+## **Key Research Contributions:** 
+.........................................................................
 ### 🌦️ Hybrid AI + Physics-Based Modeling
 
 - Developed hybrid modeling frameworks integrating **SWAT (Soil and Water Assessment Tool)** with ensemble machine-learning algorithms.
