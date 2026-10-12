@@ -33,7 +33,7 @@ His AI-related research contributions  integrates AI, hydrology, and geospatial 
 - Investigated hydrological responses to climate change under Shared Socioeconomic Pathways (SSPs).
 - Advanced the assessment of water-resource vulnerability and climate-related hydrological extremes.
 
-### **Bayesian Deep Learning for Probabilistic inference**
+### *Bayesian Deep Learning for Probabilistic inference*
 
 - Developed **Bayesian CNN** approaches for pollution vulnerability assessment.
 - Incorporated predictive uncertainty into vulnerability mapping.
