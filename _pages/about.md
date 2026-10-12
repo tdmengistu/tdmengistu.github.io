@@ -30,7 +30,7 @@ My current work focuses on deep transfer learning and hybrid graph learning for 
 - Addressed limitations associated with data scarcity, input uncertainty, and long-term hydrological simulations.
 - Identified complex relationships across Shared Socioeconomic Pathways (SSPs) to improve flood and drought predictions in data-scarce regions.
 
-### 🔮 Bayesian Deep Learning for Probabilistic Hydrology
+### 🔮 Bayesian Deep Learning for Probabilistic Inference
 
 - Applied **Bayesian CNN** to pollution vulnerability assessment.
 - Addressed the limitations of deterministic approaches in representing nonlinear environmental relationships and predictive uncertainty.
