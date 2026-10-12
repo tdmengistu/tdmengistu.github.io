@@ -27,7 +27,7 @@ My current work focuses on deep transfer learning and hybrid graph learning for 
 
 His AI-related research contributions  integrates AI, hydrology, and geospatial science to augment traditional physics-based models with data-driven machine-learning approaches to improve environmental understanding and predictive capabilities. Key application areas include water security, aquifer protection, and climate resilience.
 
-### **Hybrid AI and Physics-Based Hydrological Modeling**
+### *Hybrid AI and Physics-Based Hydrological Modeling*
 
 - Developed hybrid modeling frameworks integrating physics-based model with ensemble machine-learning approaches.
 - Investigated hydrological responses to climate change under Shared Socioeconomic Pathways (SSPs).
@@ -39,13 +39,13 @@ His AI-related research contributions  integrates AI, hydrology, and geospatial 
 - Incorporated predictive uncertainty into vulnerability mapping.
 - Produced probabilistic estimates to support uncertainty-aware groundwater risk assessment.
 
-### **Explainable AI (XAI) for Environmental Systems**
+### *Explainable AI (XAI) for Environmental Systems*
 
 - Applied **XAI** to investigate environmental predictors and model responses.
 - Evaluated the contributions of hydrogeological variables to machine learning predictions.
 - Improved model transparency and interpretability for environmental decision-making.
 
-### **Optimized Machine Learning for Water Quality Modeling**
+### *Optimized Machine Learning for Water Quality Modeling*
 
 - Benchmarked **six ensemble machine-learning algorithms** for water quality prediction.
 - Applied **Bayesian optimization** to improve hyperparameter selection and Water Quality Index (WQI) prediction.
