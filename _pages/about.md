@@ -23,9 +23,7 @@ My current work focuses on deep transfer learning and hybrid graph learning for 
 
 
 
-# Key Research Contributions
-
-His AI-related research contributions  integrates AI, hydrology, and geospatial science to augment traditional physics-based models with data-driven machine-learning approaches to improve environmental understanding and predictive capabilities. Key application areas include water security, aquifer protection, and climate resilience.
+#### **Key AI-driven research Contributions**
 
 #### *Hybrid AI and Physics-Based Hydrological Modeling*
 
