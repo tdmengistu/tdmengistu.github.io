@@ -35,11 +35,11 @@ His AI-related research contributions  integrates AI, hydrology, and geospatial 
 
 ### 2. Bayesian Deep Learning for Probabilistic inference
 
-- Developed **Bayesian convolutional neural network (BCNN)** approaches for groundwater pollution vulnerability assessment.
+- Developed **Bayesian CNN** approaches for pollution vulnerability assessment.
 - Incorporated predictive uncertainty into vulnerability mapping.
 - Produced probabilistic estimates to support uncertainty-aware groundwater risk assessment.
 
-### 3. Explainable AI (XAI) for Environmental Systems
+### **Explainable AI (XAI) for Environmental Systems**
 
 - Applied **XAI** to investigate environmental predictors and model responses.
 - Evaluated the contributions of hydrogeological variables to machine learning predictions.
