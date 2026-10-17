@@ -482,10 +482,13 @@ footer.sticky-bottom {
 }
 
 .post-title {
+  font-weight: 700 !important;
+
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
 }
+
 
 .post-list {
   margin: 0;
